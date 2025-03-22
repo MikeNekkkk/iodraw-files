@@ -16,7 +16,7 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-10" value="4.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="900" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YeQnKJE9SOZFKtMx6DuD-11" value="&lt;span style=&quot;&quot;&gt;Quản lý tài chính&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YeQnKJE9SOZFKtMx6DuD-10">
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-11" value="Báo cáo thống kê" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YeQnKJE9SOZFKtMx6DuD-10">
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-12" target="YeQnKJE9SOZFKtMx6DuD-16">
@@ -85,7 +85,7 @@
           <mxGeometry x="630" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-36" value="Hoán đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="570" width="140" height="30" as="geometry" />
+          <mxGeometry x="590" y="570" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
