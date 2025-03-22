@@ -13,7 +13,7 @@
         <mxCell id="P9My6a_TC7aNAm6JxVtu-1" value="3.0&amp;nbsp;&lt;div&gt;Quản lý giao dịch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-2" value="6.0&lt;div&gt;Báo cáo thống kê&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;6.0&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Báo cáo thống kê&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-39" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -67,7 +67,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-50" value="Hỗ trợ thanh toán&amp;nbsp;&lt;div&gt;trực tiếp&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-46">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Hỗ trợ thanh toán&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;trực tiếp&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-46">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-52" value="" style="group" vertex="1" connectable="0" parent="1">
