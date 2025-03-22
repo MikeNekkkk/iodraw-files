@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="7lGabZ4ErN3hMzfbJAmu">
-    <mxGraphModel dx="187" dy="98" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,20 +13,23 @@
         <mxCell id="P9My6a_TC7aNAm6JxVtu-12" value="" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;startSize=50;rounded=1;strokeWidth=2;shadow=0;dashed=0;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="435" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="140" height="100" as="geometry" />
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="359" y="270" width="143" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-35" value="4.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="401" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-39">
+          <mxGeometry x="1" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-36" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="P9My6a_TC7aNAm6JxVtu-34">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-35" value="4.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-39">
+          <mxGeometry x="42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-36" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="P9My6a_TC7aNAm6JxVtu-39" target="P9My6a_TC7aNAm6JxVtu-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359" y="300" as="sourcePoint" />
-            <mxPoint x="469" y="300" as="targetPoint" />
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="110" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-37" value="Hiển thị tổng các chi phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="142" height="70" as="geometry" />
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-37" value="Hiển thị tổng các chi phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-39">
+          <mxGeometry x="1" y="30" width="142" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
