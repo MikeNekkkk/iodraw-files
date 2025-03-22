@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-65" value="Tiếp nhận thông tin cư dân" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="359" y="270" width="111" height="40" as="geometry" />
+          <mxGeometry x="290" y="270" width="111" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-69" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="xDAXHT2j8NZ0hgLUzmXL-67">
           <mxGeometry relative="1" as="geometry">
@@ -44,10 +44,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-67" value="Tiếp nhận thông tin cư dân" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="510" y="270" width="110" height="40" as="geometry" />
+          <mxGeometry x="430" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-70" value="Tiếp nhận thông tin cư dân" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="650" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-72" value="Tiếp nhận thông tin cư dân" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
