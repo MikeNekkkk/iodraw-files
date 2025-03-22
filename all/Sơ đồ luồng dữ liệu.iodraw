@@ -7,11 +7,11 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-6" target="YeQnKJE9SOZFKtMx6DuD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YeQnKJE9SOZFKtMx6DuD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-6" target="YeQnKJE9SOZFKtMx6DuD-33">
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-6" target="YeQnKJE9SOZFKtMx6DuD-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="530" />
-              <mxPoint x="730" y="530" />
+              <mxPoint x="710" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
