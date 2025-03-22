@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-111" value="Lập thống kê thu chi theo quý cho dân cư và gởi thống kê" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="737.33" y="410" width="90" height="70" as="geometry" />
+          <mxGeometry x="737.33" y="480" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-116" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
