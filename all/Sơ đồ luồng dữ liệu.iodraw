@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="200" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YeQnKJE9SOZFKtMx6DuD-1">
+          <mxGeometry x="1.0559440559440558" width="147.8321678321678" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-3" value="4.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YeQnKJE9SOZFKtMx6DuD-1">
+          <mxGeometry x="44.34965034965035" width="63.35664335664335" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YeQnKJE9SOZFKtMx6DuD-1" target="YeQnKJE9SOZFKtMx6DuD-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="24" as="sourcePoint" />
+            <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-5" value="Hiển thị các chi phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YeQnKJE9SOZFKtMx6DuD-1">
+          <mxGeometry x="1.0559440559440558" y="24" width="149.94405594405595" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
