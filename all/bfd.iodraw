@@ -108,7 +108,7 @@
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-98" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="580" as="targetPoint" />
+            <mxPoint x="580" y="440" as="targetPoint" />
             <mxPoint x="580" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -123,6 +123,14 @@
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-101" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="xDAXHT2j8NZ0hgLUzmXL-102">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="435" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-143" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="xDAXHT2j8NZ0hgLUzmXL-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-102" value="Tính toán chi phí&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
