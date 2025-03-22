@@ -10,11 +10,11 @@
         <mxCell id="P9My6a_TC7aNAm6JxVtu-2" value="2.0 Xử lý yêu cầu sinh viên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-3" value="1.0" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;gradientColor=default;fillColor=none;swimlaneLine=1;glass=0;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;spacingBottom=0;spacing=9;" vertex="1" parent="1">
-          <mxGeometry x="370" y="250" width="250" height="80" as="geometry" />
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-3" value="1.0" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;gradientColor=default;fillColor=none;swimlaneLine=1;glass=0;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;spacingBottom=0;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="249" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-4" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial; text-wrap-mode: wrap;&quot;&gt;&amp;nbsp;Lấy họ và tên cư dân&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-3">
-          <mxGeometry y="40" width="250" height="40" as="geometry" />
+          <mxGeometry y="40" width="249" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P9My6a_TC7aNAm6JxVtu-9" target="P9My6a_TC7aNAm6JxVtu-12">
           <mxGeometry relative="1" as="geometry" />
