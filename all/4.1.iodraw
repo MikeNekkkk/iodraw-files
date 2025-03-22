@@ -117,13 +117,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-67" value="số liệu về các chi phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-67" value="số liệu về các chi phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-69" value="số liệu tổng chi phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-69" value="số liệu tổng chi phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-70" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;các chi phí đã được thanh toán&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-70" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;các chi phí đã được thanh toán&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="440" y="620" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-73" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;dữ liệu về chi phí&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;của căn hộ&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
