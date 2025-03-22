@@ -6,11 +6,11 @@
         <mxCell id="1" parent="0" />
         <UserObject label="Quản lý chung cư Hoàng Anh Gia Lai&amp;nbsp;" treeRoot="1" id="xDAXHT2j8NZ0hgLUzmXL-58">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="260" y="150" width="300" height="60" as="geometry" />
+            <mxGeometry x="260" y="170" width="290" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-61" value="Tiếp nhận thông tin cư dân" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="50" y="270" width="110" height="50" as="geometry" />
+          <mxGeometry x="50" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-62" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.536;exitY=1.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="xDAXHT2j8NZ0hgLUzmXL-61" parent="1" source="xDAXHT2j8NZ0hgLUzmXL-58">
           <mxGeometry relative="1" as="geometry">
