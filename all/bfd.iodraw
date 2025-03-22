@@ -71,8 +71,16 @@
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-72" value="Tiếp nhận thông tin cư dân" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="700" y="270" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-82" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="xDAXHT2j8NZ0hgLUzmXL-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-80" value="Quản lý tài chính&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="450" y="330" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-83" value="Quản lý tài chính&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
