@@ -79,7 +79,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-56" value="Hỗ trợ thanh toán&amp;nbsp;&lt;div&gt;trực tiếp&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-52">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-56" value="In biên lai" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-52">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
       </root>
