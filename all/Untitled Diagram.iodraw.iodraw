@@ -25,7 +25,7 @@
             <mxPoint x="469" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-37" value="4.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-37" value="Hiển thị tổng các chi phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="358" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
