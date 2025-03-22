@@ -41,10 +41,13 @@
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-21" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp;cư dân&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="364" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-21" target="YeQnKJE9SOZFKtMx6DuD-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-24" value="thông tin cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
