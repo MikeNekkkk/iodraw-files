@@ -29,22 +29,22 @@
           <mxGeometry x="0.916083916083916" y="27" width="130.08391608391608" height="63" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-41" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="440" width="143" height="100" as="geometry" />
+          <mxGeometry x="370" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-41">
-          <mxGeometry x="1" width="140" height="100" as="geometry" />
+          <mxGeometry x="0.8391608391608392" width="117.48251748251748" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-43" value="4.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-41">
-          <mxGeometry x="42" width="60" height="30" as="geometry" />
+          <mxGeometry x="35.24475524475525" width="50.34965034965035" height="24" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-44" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="P9My6a_TC7aNAm6JxVtu-41" target="P9My6a_TC7aNAm6JxVtu-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="30" as="sourcePoint" />
-            <mxPoint x="110" y="30" as="targetPoint" />
+            <mxPoint y="24" as="sourcePoint" />
+            <mxPoint x="92.3076923076923" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-45" value="Hiển thị tổng các chi phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P9My6a_TC7aNAm6JxVtu-41">
-          <mxGeometry x="1" y="30" width="142" height="70" as="geometry" />
+          <mxGeometry x="0.8391608391608392" y="24" width="119.16083916083916" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
