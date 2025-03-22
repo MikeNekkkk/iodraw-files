@@ -82,8 +82,8 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-33" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Căn hộ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="915" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YeQnKJE9SOZFKtMx6DuD-36" value="Hoán đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="570" width="110" height="30" as="geometry" />
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-36" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Hoán đơn&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="820" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-40" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Lập thống kê thu&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;chi theo quý&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="915" width="140" height="30" as="geometry" />
