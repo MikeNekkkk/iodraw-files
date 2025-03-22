@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P9My6a_TC7aNAm6JxVtu-1" value="Sinh viên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-1" value="3.0&amp;nbsp;&lt;div&gt;Quản lý giao dịch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-2" value="2.0 Xử lý yêu cầu sinh viên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -17,7 +17,7 @@
           <mxGeometry x="360" y="260" width="176" height="110" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-35" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="418" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
