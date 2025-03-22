@@ -225,7 +225,7 @@
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-134" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="510" as="targetPoint" />
+            <mxPoint x="20" y="520" as="targetPoint" />
             <mxPoint x="19.999999999999915" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -248,6 +248,9 @@
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-139" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="xDAXHT2j8NZ0hgLUzmXL-140">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="19.999999999999915" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="515" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-140" value="Hỗ trợ thanh toán trực tiếp" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
