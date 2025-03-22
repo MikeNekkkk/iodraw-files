@@ -55,8 +55,15 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-21" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp;cư dân&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="73.5" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YeQnKJE9SOZFKtMx6DuD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.458;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-21" target="YeQnKJE9SOZFKtMx6DuD-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.458;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="129" y="390" />
+              <mxPoint x="131" y="390" />
+              <mxPoint x="131" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="203.5" y="450" width="140" height="30" as="geometry" />
