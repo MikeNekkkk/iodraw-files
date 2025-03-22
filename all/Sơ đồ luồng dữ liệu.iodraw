@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="0W-Lscg3T5CpKXmLTCKs">
-    <mxGraphModel dx="555" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="462" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,6 +61,10 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1.068;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-17" target="YeQnKJE9SOZFKtMx6DuD-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="313.5" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="540" />
+              <mxPoint x="100" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-30" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;đã xử lý&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
