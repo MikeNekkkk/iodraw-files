@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-83" value="Biên lai" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="702" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
