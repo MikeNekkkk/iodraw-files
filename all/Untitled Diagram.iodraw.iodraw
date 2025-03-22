@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P9My6a_TC7aNAm6JxVtu-37" value="Hiển thị tổng các chi phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="358" y="300" width="142" height="70" as="geometry" />
+          <mxGeometry x="360" y="320" width="142" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
