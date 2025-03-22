@@ -64,8 +64,8 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-14" target="YeQnKJE9SOZFKtMx6DuD-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YeQnKJE9SOZFKtMx6DuD-30" value="thông tin cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="580" width="140" height="30" as="geometry" />
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-30" value="thông tin cư dân đã xử lý" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="710" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
