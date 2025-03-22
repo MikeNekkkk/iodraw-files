@@ -131,7 +131,7 @@
           <mxGeometry x="630" y="820" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-52" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;tổng chi phí&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;của căn hộ theo tháng&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="780" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="780" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
