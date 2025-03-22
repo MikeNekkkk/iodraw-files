@@ -129,6 +129,9 @@
         <mxCell id="P9My6a_TC7aNAm6JxVtu-73" value="các chi phí của căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P9My6a_TC7aNAm6JxVtu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P9My6a_TC7aNAm6JxVtu-53" target="P9My6a_TC7aNAm6JxVtu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
