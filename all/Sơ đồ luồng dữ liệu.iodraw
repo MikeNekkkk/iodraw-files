@@ -64,8 +64,14 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-30" value="thông tin cư dân&amp;nbsp;&lt;div&gt;đã xử lý&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="203.5" y="700" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YeQnKJE9SOZFKtMx6DuD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-14" target="YeQnKJE9SOZFKtMx6DuD-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483.5" y="740.0026315789476" as="sourcePoint" />
+            <mxPoint x="619.72" y="740.1300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-32" value="thông tin cư dân&amp;nbsp;&lt;div&gt;đã xử lý&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="213.5" y="710" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
