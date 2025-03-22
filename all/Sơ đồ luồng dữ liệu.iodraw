@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="0W-Lscg3T5CpKXmLTCKs">
-    <mxGraphModel dx="177" dy="93" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,18 +55,8 @@
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-21" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp;cư dân&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="73.5" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YeQnKJE9SOZFKtMx6DuD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.458;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="129" y="390" />
-              <mxPoint x="131" y="390" />
-              <mxPoint x="131" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="203.5" y="450" width="140" height="30" as="geometry" />
+          <mxGeometry x="140" y="370" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="570" width="140" height="30" as="geometry" />
@@ -103,6 +93,9 @@
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-44" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;báo cáo doanh thu theo tháng&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="1030" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YeQnKJE9SOZFKtMx6DuD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-21" target="YeQnKJE9SOZFKtMx6DuD-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
