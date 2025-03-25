@@ -547,8 +547,7 @@
             <mxPoint x="610" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="558" />
-              <mxPoint x="550" y="490" />
-              <mxPoint x="669" y="490" />
+              <mxPoint x="550" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -568,6 +567,9 @@
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="thông tin các nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
