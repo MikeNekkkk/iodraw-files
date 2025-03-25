@@ -696,6 +696,9 @@
         <mxCell id="IAbbk1UaOfHkOc5SVgsD-3" value="Hồ sơ cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IAbbk1UaOfHkOc5SVgsD-1">
           <mxGeometry x="30" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IAbbk1UaOfHkOc5SVgsD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-6" target="IAbbk1UaOfHkOc5SVgsD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
