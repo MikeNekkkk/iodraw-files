@@ -672,7 +672,7 @@
         <mxCell id="o64RLzYif3j0WrNdPUvv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-11" target="PUbe-aqREx9gogltZV1j-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o64RLzYif3j0WrNdPUvv-6" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="o64RLzYif3j0WrNdPUvv-6" value="thông tin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;căn hộ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="460" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Zj60Yw1tozfGnLbV0woJ-1" value="thông tin&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;căn hộ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
