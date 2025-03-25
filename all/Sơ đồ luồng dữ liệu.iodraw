@@ -157,7 +157,7 @@
         <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-1" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="UTJL6IHdJ8PtxIiqpV0Z-4">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-3" value="CSDL cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTJL6IHdJ8PtxIiqpV0Z-4">
+        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-3" value="Hồ sơ cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTJL6IHdJ8PtxIiqpV0Z-4">
           <mxGeometry x="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-9" value="" style="group" vertex="1" connectable="0" parent="1">
