@@ -192,12 +192,12 @@
           <mxGeometry x="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="810" width="130" height="30" as="geometry" />
+          <mxGeometry x="630" y="1080" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-14" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="UTJL6IHdJ8PtxIiqpV0Z-13">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-15" value="CSDL Hợp đồng&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTJL6IHdJ8PtxIiqpV0Z-13">
+        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-15" value="CSDL Sự cố&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTJL6IHdJ8PtxIiqpV0Z-13">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
