@@ -729,7 +729,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Hiển thị các chi phí theo tháng&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-4">
+        <mxCell id="btuweMgufnmn4-OlTEoH-8" value="Tiếp nhận các chi phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-4">
           <mxGeometry x="1.0559440559440558" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-9" value="" style="group" vertex="1" connectable="0" parent="1">
