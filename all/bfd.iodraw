@@ -542,13 +542,12 @@
         <mxCell id="uwBi-qigKtJsUJgTqHCG-18" value="Lấy số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-14">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="BvuGXpydRdQjlfFQ-Jab-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-18" target="uwBi-qigKtJsUJgTqHCG-3">
+        <mxCell id="BvuGXpydRdQjlfFQ-Jab-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-18" target="uwBi-qigKtJsUJgTqHCG-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="558" />
               <mxPoint x="550" y="490" />
-              <mxPoint x="669" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -670,9 +669,6 @@
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-19" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="80" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="PUbe-aqREx9gogltZV1j-20" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
