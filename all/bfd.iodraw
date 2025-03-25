@@ -532,7 +532,7 @@
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="uwBi-qigKtJsUJgTqHCG-14" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="520" width="151" height="80" as="geometry" />
+          <mxGeometry x="360" y="600" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwBi-qigKtJsUJgTqHCG-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-14">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
@@ -573,13 +573,13 @@
           <mxGeometry x="510" y="260" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="570" width="80" height="56" as="geometry" />
+          <mxGeometry x="520" y="650" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="260" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-4" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="80" height="56" as="geometry" />
+          <mxGeometry x="280" y="650" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
