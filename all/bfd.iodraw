@@ -640,12 +640,13 @@
         <mxCell id="PUbe-aqREx9gogltZV1j-14" value="Cập nhật tình trạng căn hộ (chưa thuê/ đã thuê)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="PUbe-aqREx9gogltZV1j-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-14" target="PUbe-aqREx9gogltZV1j-4">
+        <mxCell id="PUbe-aqREx9gogltZV1j-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="480" as="targetPoint" />
+            <mxPoint x="670" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="558" />
-              <mxPoint x="550" y="480" />
+              <mxPoint x="550" y="490" />
+              <mxPoint x="669" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
