@@ -197,7 +197,7 @@
             <mxPoint x="390.0400000000001" y="901.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-24" value="Dữ liệu chí phí căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-24" value="Chí phí căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="720" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
