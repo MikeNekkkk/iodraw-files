@@ -684,8 +684,8 @@
         <mxCell id="RMZoMrdYmk7ZnKLZNASY-5" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;cư dân&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="320" width="80" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="bHHAwOrJRg9ejexxziOX-1" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;cư dân&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="330" width="80" height="56" as="geometry" />
+        <mxCell id="bHHAwOrJRg9ejexxziOX-1" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;cư dân đã được kiểm duyệt&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
