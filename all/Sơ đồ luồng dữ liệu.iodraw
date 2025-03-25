@@ -174,8 +174,10 @@
         <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-7" value="CSDL Hợp đồng&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTJL6IHdJ8PtxIiqpV0Z-5">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.335;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-14" target="UTJL6IHdJ8PtxIiqpV0Z-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UTJL6IHdJ8PtxIiqpV0Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YeQnKJE9SOZFKtMx6DuD-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
