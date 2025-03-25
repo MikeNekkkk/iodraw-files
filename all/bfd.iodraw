@@ -521,7 +521,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-13" value="Lấy thông tin các nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-9">
+        <mxCell id="uwBi-qigKtJsUJgTqHCG-13" value="Lấy thông tin nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-9">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="uwBi-qigKtJsUJgTqHCG-14" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
@@ -562,7 +562,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="thông tin các nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="thông tin nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
