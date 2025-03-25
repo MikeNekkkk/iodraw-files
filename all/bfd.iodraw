@@ -617,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FyXts1xY-3-SlPe1_Ubk" name="Page-6">
-    <mxGraphModel dx="756" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1040" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -685,7 +685,7 @@
           <mxGeometry x="150" y="320" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="bHHAwOrJRg9ejexxziOX-1" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;cư dân đã được kiểm duyệt&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="320" width="80" height="56" as="geometry" />
+          <mxGeometry x="500" y="320" width="160" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
