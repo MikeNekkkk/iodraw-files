@@ -665,7 +665,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUbe-aqREx9gogltZV1j-14" value="Kiểm duyệt và Cập nhật tình trạng căn&amp;nbsp;&lt;div&gt;hộ sang trạng thái (đã thuê)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
+        <mxCell id="PUbe-aqREx9gogltZV1j-14" value="Kiểm duyệt và Cập nhật tình trạng căn&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;hộ&amp;nbsp;&lt;/span&gt;&lt;div&gt;sang trạng thái (đã thuê)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
           <mxGeometry x="1.06" y="24" width="149.94" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-19" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
