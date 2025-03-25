@@ -568,8 +568,8 @@
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="thông tin các nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="80" height="56" as="geometry" />
+        <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
