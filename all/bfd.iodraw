@@ -511,7 +511,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="480" />
+              <mxPoint x="380" y="480" />
+              <mxPoint x="380" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -602,6 +603,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="24" as="sourcePoint" />
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1vrGtVW8yV6qcoYlgjhg-1" source="1vrGtVW8yV6qcoYlgjhg-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="191" y="52.000000000000114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1vrGtVW8yV6qcoYlgjhg-5" value="Lấy số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1vrGtVW8yV6qcoYlgjhg-1">
