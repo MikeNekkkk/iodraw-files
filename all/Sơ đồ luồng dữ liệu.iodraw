@@ -139,7 +139,7 @@
         </mxCell>
         <mxCell id="YeQnKJE9SOZFKtMx6DuD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YeQnKJE9SOZFKtMx6DuD-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="1090" as="targetPoint" />
+            <mxPoint x="620" y="1080" as="targetPoint" />
             <Array as="points">
               <mxPoint x="690" y="1080" />
               <mxPoint x="630" y="1080" />
