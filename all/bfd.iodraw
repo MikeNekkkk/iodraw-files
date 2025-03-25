@@ -227,10 +227,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-138" value="L&lt;span style=&quot;background-color: initial;&quot;&gt;ấy số điện thoại cư dân&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="39.999999999999915" y="410" width="90" height="50" as="geometry" />
+          <mxGeometry x="29.999999999999915" y="450" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-140" value="Lấy số thành viên trong hộ gia đình" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="39.999999999999915" y="520" width="90" height="50" as="geometry" />
+          <mxGeometry x="29.999999999999915" y="530" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-145" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
