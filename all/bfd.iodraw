@@ -514,7 +514,7 @@
           <mxGeometry x="670" y="440" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uwBi-qigKtJsUJgTqHCG-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="359" y="360" width="151" height="80" as="geometry" />
+          <mxGeometry x="359" y="280" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwBi-qigKtJsUJgTqHCG-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-9">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
@@ -570,13 +570,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="thông tin nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="340" width="80" height="56" as="geometry" />
+          <mxGeometry x="510" y="260" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="80" height="56" as="geometry" />
+          <mxGeometry x="270" y="260" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-4" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="570" width="80" height="56" as="geometry" />
