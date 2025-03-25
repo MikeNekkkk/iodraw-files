@@ -617,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FyXts1xY-3-SlPe1_Ubk" name="Page-6">
-    <mxGraphModel dx="924" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,7 +681,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o64RLzYif3j0WrNdPUvv-6" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="361" y="360" width="80" height="56" as="geometry" />
+          <mxGeometry x="361" y="330" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Zj60Yw1tozfGnLbV0woJ-1" value="thông tin&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="601" y="360" width="80" height="56" as="geometry" />
