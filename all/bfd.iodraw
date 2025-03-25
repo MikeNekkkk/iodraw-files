@@ -526,36 +526,6 @@
         <mxCell id="uwBi-qigKtJsUJgTqHCG-18" value="L&lt;span style=&quot;background-color: initial;&quot;&gt;ấy số điện thoại cư dân&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-14">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="680" width="151" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-19">
-          <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-21" value="1.4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-19">
-          <mxGeometry x="44.349650349650354" width="63.35664335664335" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uwBi-qigKtJsUJgTqHCG-19" target="uwBi-qigKtJsUJgTqHCG-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="24" as="sourcePoint" />
-            <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-23" value="Lấy số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uwBi-qigKtJsUJgTqHCG-19">
-          <mxGeometry x="-1.0540559440559438" y="24" width="149.94405594405595" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-30" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;họ và tên cư dân&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="720" />
-              <mxPoint x="620" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BvuGXpydRdQjlfFQ-Jab-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-18" target="uwBi-qigKtJsUJgTqHCG-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="480" as="targetPoint" />
@@ -581,9 +551,6 @@
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;số điện thoại cư dân&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="epW8fJm1axzrAWLEhZVH-8" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="629.995944055944" y="626" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
