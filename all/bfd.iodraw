@@ -617,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FyXts1xY-3-SlPe1_Ubk" name="Page-6">
-    <mxGraphModel dx="876" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,6 +686,15 @@
         </mxCell>
         <mxCell id="bHHAwOrJRg9ejexxziOX-1" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;cư dân đã được kiểm duyệt&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbbk1UaOfHkOc5SVgsD-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbbk1UaOfHkOc5SVgsD-2" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="IAbbk1UaOfHkOc5SVgsD-1">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbbk1UaOfHkOc5SVgsD-3" value="Hồ sơ cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IAbbk1UaOfHkOc5SVgsD-1">
+          <mxGeometry x="30" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
