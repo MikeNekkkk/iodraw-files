@@ -805,8 +805,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-32" value="&amp;nbsp;tổng chi phí căn hộ trong 1 tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="590" y="510" width="130" height="30" as="geometry" />
+        <mxCell id="btuweMgufnmn4-OlTEoH-32" value="&amp;nbsp;số liệu tổng chi phí&amp;nbsp;căn hộ trong 1 tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="570" y="510" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-33" value="Căn hộ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="532" width="120" height="60" as="geometry" />
