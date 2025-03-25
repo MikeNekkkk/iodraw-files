@@ -617,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FyXts1xY-3-SlPe1_Ubk" name="Page-6">
-    <mxGraphModel dx="1583" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,7 +700,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rR0mn1PRsrygyVKhFzzL-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="300" width="140" height="30" as="geometry" />
+          <mxGeometry x="260" y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rR0mn1PRsrygyVKhFzzL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.642;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IAbbk1UaOfHkOc5SVgsD-3" target="PUbe-aqREx9gogltZV1j-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
