@@ -598,7 +598,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUbe-aqREx9gogltZV1j-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Cư dân&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PUbe-aqREx9gogltZV1j-3" value="&lt;div&gt;1.0&lt;/div&gt;Tiếp nhận thông tin cư dân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.0&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Xứ lý yêu cầu của cư dân&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -637,7 +637,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUbe-aqREx9gogltZV1j-14" value="Lấy số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
+        <mxCell id="PUbe-aqREx9gogltZV1j-14" value="Cập nhật tình trạng căn hộ (chưa thuê/ đã thuê)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-14" target="PUbe-aqREx9gogltZV1j-4">
