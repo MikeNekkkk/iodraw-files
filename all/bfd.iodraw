@@ -627,7 +627,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-3" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1.0&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Tiếp nhận thông tin cư dân&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="384" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="384" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.0&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Quản lý giao dịch&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="384" width="127" height="60" as="geometry" />
@@ -667,12 +667,6 @@
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-14" value="Kiểm duyệt và Cập nhật tình trạng căn&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;hộ&amp;nbsp;&lt;/span&gt;&lt;div&gt;sang trạng thái (đã thuê)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
           <mxGeometry x="1.06" y="24" width="149.94" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="PUbe-aqREx9gogltZV1j-19" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="360" width="80" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="fm7blnuJ53E3AyV89kE5-2" value="số thành viên&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="406" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="o64RLzYif3j0WrNdPUvv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-11" target="PUbe-aqREx9gogltZV1j-4">
           <mxGeometry relative="1" as="geometry" />
