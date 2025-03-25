@@ -507,9 +507,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1vrGtVW8yV6qcoYlgjhg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-2">
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-2" target="1vrGtVW8yV6qcoYlgjhg-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uwBi-qigKtJsUJgTqHCG-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Cư dân&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
