@@ -795,7 +795,7 @@
           <mxGeometry x="440" y="460" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-30" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;dữ liệu về chi phí&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;của căn hộ trong1 tháng&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="130" height="30" as="geometry" />
+          <mxGeometry x="140" y="210" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="btuweMgufnmn4-OlTEoH-15" target="btuweMgufnmn4-OlTEoH-3">
           <mxGeometry relative="1" as="geometry">
@@ -806,7 +806,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-32" value="&amp;nbsp;số liệu tổng chi phí&amp;nbsp;căn hộ trong 1 tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="570" y="510" width="150" height="30" as="geometry" />
+          <mxGeometry x="570" y="520" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-33" value="Căn hộ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="532" width="120" height="60" as="geometry" />
