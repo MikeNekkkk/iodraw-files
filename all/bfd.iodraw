@@ -747,7 +747,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Tính toán tổng chi phí&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-9">
+        <mxCell id="btuweMgufnmn4-OlTEoH-13" value="Tính toán tổng chi phí&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-9">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-14" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
@@ -765,7 +765,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Hỗ trợ thanh toán&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;trực tiếp&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-14">
+        <mxCell id="btuweMgufnmn4-OlTEoH-18" value="In hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-14">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-19" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -820,9 +820,6 @@
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-28" value="số liệu tổng chi phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-29" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;các chi phí đã được thanh toán&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="440" y="620" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-30" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;dữ liệu về chi phí&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;của căn hộ&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="130" height="30" as="geometry" />
