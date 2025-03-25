@@ -480,8 +480,8 @@
         <mxCell id="3IpZUN1du2BS_vwdQG4E-51" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="300" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3IpZUN1du2BS_vwdQG4E-52" value="Bản thống kê doanh thu, bản báo cáo tổng các sự cố an ninh đã xảy ra" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1010" width="130" height="50" as="geometry" />
+        <mxCell id="3IpZUN1du2BS_vwdQG4E-52" value="Bản thống kê doanh thu, bản thống kê&amp;nbsp;tổng các sự cố an ninh đã xảy ra" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1000" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
