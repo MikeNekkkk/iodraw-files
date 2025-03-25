@@ -582,13 +582,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PUbe-aqREx9gogltZV1j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.373;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-3" target="PUbe-aqREx9gogltZV1j-7">
+        <mxCell id="PUbe-aqREx9gogltZV1j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="470" />
-              <mxPoint x="274" y="398" />
+              <mxPoint x="130" y="200" />
+              <mxPoint x="430" y="200" />
+              <mxPoint x="430" y="398" />
               <mxPoint x="427" y="398" />
             </Array>
+            <mxPoint x="427" y="356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-3" value="&lt;div&gt;1.0&lt;/div&gt;Tiếp nhận thông tin cư dân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
