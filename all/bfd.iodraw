@@ -569,6 +569,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BvuGXpydRdQjlfFQ-Jab-3">
+          <mxGeometry x="-0.6409" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="thông tin nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="80" height="56" as="geometry" />
         </mxCell>
@@ -580,6 +585,24 @@
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-4" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="650" width="80" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-1" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="440" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1vrGtVW8yV6qcoYlgjhg-1">
+          <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-3" value="1.2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1vrGtVW8yV6qcoYlgjhg-1">
+          <mxGeometry x="44.349650349650354" width="63.35664335664335" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1vrGtVW8yV6qcoYlgjhg-1" target="1vrGtVW8yV6qcoYlgjhg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="24" as="sourcePoint" />
+            <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-5" value="Lấy số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1vrGtVW8yV6qcoYlgjhg-1">
+          <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
