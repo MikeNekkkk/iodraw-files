@@ -596,16 +596,12 @@
           <mxGeometry x="180" y="210" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uwBi-qigKtJsUJgTqHCG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-20" target="uwBi-qigKtJsUJgTqHCG-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-32" value="&amp;nbsp;các chi phí đã được thanh toán trong 1 tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="570" y="680" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-33" value="Căn hộ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="702" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uwBi-qigKtJsUJgTqHCG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-23" target="uwBi-qigKtJsUJgTqHCG-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="410" />
+              <mxPoint x="725" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
