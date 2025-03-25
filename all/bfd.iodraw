@@ -27,7 +27,7 @@
             <mxPoint x="205" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-63" value="Xứ lý yêu cầu của cư dân&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-63" value="Xứ lý thông tin cư dân&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="150" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-78" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" source="xDAXHT2j8NZ0hgLUzmXL-65" edge="1">
