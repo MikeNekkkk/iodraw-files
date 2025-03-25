@@ -621,8 +621,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="Lấy số cccd của cư dân&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="509.99594405594405" y="360" width="149.94405594405595" height="56" as="geometry" />
+        <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="số cccd của cư dân&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
