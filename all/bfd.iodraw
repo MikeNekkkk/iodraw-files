@@ -582,15 +582,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PUbe-aqREx9gogltZV1j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-3" target="PUbe-aqREx9gogltZV1j-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="130" y="200" />
-              <mxPoint x="440" y="200" />
-            </Array>
-            <mxPoint x="370" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-3" value="&lt;div&gt;1.0&lt;/div&gt;Tiếp nhận thông tin cư dân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="384" width="120" height="60" as="geometry" />
         </mxCell>
@@ -598,7 +589,7 @@
           <mxGeometry x="677" y="384" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="374" width="151" height="80" as="geometry" />
+          <mxGeometry x="180" y="374" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PUbe-aqREx9gogltZV1j-5">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
@@ -616,7 +607,7 @@
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-10" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="449" y="384" width="151" height="80" as="geometry" />
+          <mxGeometry x="439" y="374" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
@@ -634,7 +625,7 @@
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-17" value="thông tin nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="340" width="80" height="56" as="geometry" />
+          <mxGeometry x="550" y="300" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-18" value="số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="56" as="geometry" />
