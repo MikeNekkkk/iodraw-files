@@ -641,6 +641,9 @@
         <mxCell id="o64RLzYif3j0WrNdPUvv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-6" target="PUbe-aqREx9gogltZV1j-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o64RLzYif3j0WrNdPUvv-6" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="80" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
