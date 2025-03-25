@@ -608,11 +608,9 @@
         <mxCell id="1vrGtVW8yV6qcoYlgjhg-5" value="Lấy số thành viên trong hộ gia đình" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1vrGtVW8yV6qcoYlgjhg-1">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="1vrGtVW8yV6qcoYlgjhg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1vrGtVW8yV6qcoYlgjhg-2" target="uwBi-qigKtJsUJgTqHCG-3">
+        <mxCell id="1vrGtVW8yV6qcoYlgjhg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1vrGtVW8yV6qcoYlgjhg-2" target="uwBi-qigKtJsUJgTqHCG-3">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="668" y="480" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
