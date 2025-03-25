@@ -697,7 +697,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-13" value="Lấy số cccd của cư dân&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-9">
+        <mxCell id="btuweMgufnmn4-OlTEoH-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Tính toán tổng chi phí&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-9">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-14" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
