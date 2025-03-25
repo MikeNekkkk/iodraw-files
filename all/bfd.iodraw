@@ -124,7 +124,7 @@
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-102" value="Gởi thông báo an ninh" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="600" y="410" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-109" value="Thống kê doanh thu theo tháng và gởi báo cáo" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+        <mxCell id="xDAXHT2j8NZ0hgLUzmXL-109" value="Thống kê doanh thu theo tháng và gởi bản thống kê" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="737.33" y="330" width="82.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-110" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" edge="1">
