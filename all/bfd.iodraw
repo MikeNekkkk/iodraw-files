@@ -710,6 +710,9 @@
         <mxCell id="rR0mn1PRsrygyVKhFzzL-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Zjaw0_9aMheqJvLAUDUm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-9" target="PUbe-aqREx9gogltZV1j-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
