@@ -612,7 +612,7 @@
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-10" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="439" y="374" width="151" height="80" as="geometry" />
+          <mxGeometry x="450" y="374" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUbe-aqREx9gogltZV1j-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PUbe-aqREx9gogltZV1j-10">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
@@ -642,7 +642,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o64RLzYif3j0WrNdPUvv-6" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="80" height="56" as="geometry" />
+          <mxGeometry x="361" y="360" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
