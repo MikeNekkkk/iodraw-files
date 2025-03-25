@@ -768,7 +768,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPSVST8v4p4TRI784d1--40" value="Kiểm duyệt và Cập nhật tình trạng căn&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;hộ&amp;nbsp;&lt;/span&gt;&lt;div&gt;sang trạng thái (đã thuê)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPSVST8v4p4TRI784d1--36">
+        <mxCell id="jPSVST8v4p4TRI784d1--40" value="In hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPSVST8v4p4TRI784d1--36">
           <mxGeometry x="1.06" y="24" width="149.94" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jPSVST8v4p4TRI784d1--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPSVST8v4p4TRI784d1--37" target="jPSVST8v4p4TRI784d1--29">
