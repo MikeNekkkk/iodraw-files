@@ -635,6 +635,13 @@
         <mxCell id="fm7blnuJ53E3AyV89kE5-2" value="số thành viên&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="406" width="80" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="o64RLzYif3j0WrNdPUvv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-9" target="PUbe-aqREx9gogltZV1j-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
