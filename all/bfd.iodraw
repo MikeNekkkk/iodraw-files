@@ -522,16 +522,14 @@
         <mxCell id="FsZ_9adGmiTE_zcggbIn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-2" target="uwBi-qigKtJsUJgTqHCG-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="470" />
-              <mxPoint x="280" y="318" />
+              <mxPoint x="130" y="318" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsZ_9adGmiTE_zcggbIn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-2" target="uwBi-qigKtJsUJgTqHCG-18">
+        <mxCell id="FsZ_9adGmiTE_zcggbIn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uwBi-qigKtJsUJgTqHCG-2" target="uwBi-qigKtJsUJgTqHCG-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="276" y="490" />
-              <mxPoint x="276" y="638" />
+              <mxPoint x="130" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
