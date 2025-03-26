@@ -761,7 +761,7 @@
             <mxPoint x="220" y="38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPSVST8v4p4TRI784d1--35" value="kiểm duyệt và cập nhật thông tin cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPSVST8v4p4TRI784d1--30">
+        <mxCell id="jPSVST8v4p4TRI784d1--35" value="Kiểm tra thông tin cư dân và căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPSVST8v4p4TRI784d1--30">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jPSVST8v4p4TRI784d1--36" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
@@ -789,7 +789,7 @@
           <mxGeometry x="150" y="280" width="100" height="56" as="geometry" />
         </mxCell>
         <mxCell id="im18mLekAAOa4g9bK-8j-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="310" width="151" height="80" as="geometry" />
+          <mxGeometry x="270" y="610" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="im18mLekAAOa4g9bK-8j-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="im18mLekAAOa4g9bK-8j-2">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
