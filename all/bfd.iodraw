@@ -1182,9 +1182,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oc9KOnh8nLrvfyagsE5E-1" value="Dữ liệu hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="oc9KOnh8nLrvfyagsE5E-2" value="Dữ liệu sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="70" width="130" height="50" as="geometry" />
         </mxCell>
@@ -1243,7 +1240,9 @@
         <mxCell id="3WWZp2PTc6q9zWOudfk--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4o4_Br4mYR0YpuHDCRo-3" target="m19FNcJiDO8SEnPvIqwi-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="263" />
+              <mxPoint x="210" y="190" />
+              <mxPoint x="330" y="190" />
+              <mxPoint x="330" y="263" />
             </Array>
           </mxGeometry>
         </mxCell>
