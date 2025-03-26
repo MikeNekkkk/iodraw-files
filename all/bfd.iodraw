@@ -1171,7 +1171,7 @@
             <mxPoint x="123.07692307692308" y="27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m19FNcJiDO8SEnPvIqwi-5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thống kê&lt;/span&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;line-height: 13.78px;&quot;&gt;&amp;nbsp;các sự cố an ninh xảy ra&lt;/span&gt;&amp;nbsp;theo tháng và gởi thống kê&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m19FNcJiDO8SEnPvIqwi-1">
+        <mxCell id="m19FNcJiDO8SEnPvIqwi-5" value="Thống kê thu chi theo quý cho dân cư và gởi thống kê&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m19FNcJiDO8SEnPvIqwi-1">
           <mxGeometry x="-1.116880470522872" y="27" width="158.8811188811189" height="63" as="geometry" />
         </mxCell>
         <mxCell id="VObEHzEASkJCUxfztaQr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4o4_Br4mYR0YpuHDCRo-3" target="gX9L8A0MT3O8rsqF-hAp-5">
@@ -1200,7 +1200,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="85kUJBs8BbbOzF0Z1C6p-5" value="Thống kê thu chi theo quý cho dân cư và gởi thống kê" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="85kUJBs8BbbOzF0Z1C6p-1">
+        <mxCell id="85kUJBs8BbbOzF0Z1C6p-5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thống kê&lt;/span&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;line-height: 13.78px;&quot;&gt;&amp;nbsp;các sự cố an ninh xảy ra&lt;/span&gt;&amp;nbsp;theo tháng và gởi thống kê&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="85kUJBs8BbbOzF0Z1C6p-1">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="QLjAj6_Xm-Khqj85QjoQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r_WTKs_meFJxfK5a1-pn-3" target="85kUJBs8BbbOzF0Z1C6p-5">
