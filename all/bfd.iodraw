@@ -839,6 +839,9 @@
         <mxCell id="omrxfky8jL_DfOINq_Mn-1" value="thông tin&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;hợp đồng&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="364" y="550" width="100" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="omrxfky8jL_DfOINq_Mn-2" value="thông tin căn hộ đã đăng kí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="650" width="100" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
