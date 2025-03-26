@@ -846,7 +846,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wzT5hbwgBWdg6SgXQ9Tp" name="4.0">
-    <mxGraphModel dx="228" dy="119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="238" dy="124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -970,8 +970,10 @@
         <mxCell id="btuweMgufnmn4-OlTEoH-35" value="Biên lai" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="532" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oo2jLmpIWz9ivgGjd8Dw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oo2jLmpIWz9ivgGjd8Dw-1" target="btuweMgufnmn4-OlTEoH-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oo2jLmpIWz9ivgGjd8Dw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo2jLmpIWz9ivgGjd8Dw-1" target="btuweMgufnmn4-OlTEoH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oo2jLmpIWz9ivgGjd8Dw-1" value="Căn hộ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="120" height="60" as="geometry" />
