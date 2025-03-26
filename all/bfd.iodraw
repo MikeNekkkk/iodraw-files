@@ -1016,7 +1016,7 @@
           <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="304" width="127" height="60" as="geometry" />
+          <mxGeometry x="700" y="295" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="250" y="290" width="151" height="80" as="geometry" />
@@ -1042,7 +1042,7 @@
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-10" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="294" width="151" height="90" as="geometry" />
+          <mxGeometry x="470" y="285" width="151" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WuJuEg88FAZ71NWtKNu5-10">
           <mxGeometry x="1.06" y="-5" width="147.83" height="90" as="geometry" />
@@ -1066,7 +1066,7 @@
           <mxGeometry x="140" y="270" width="100" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-18" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;đã được&amp;nbsp;&lt;/div&gt;&lt;div&gt;kiểm duyệt&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="328" width="160" height="56" as="geometry" />
+          <mxGeometry x="360" y="326" width="160" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="200" width="120" height="30" as="geometry" />
@@ -1087,7 +1087,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-25" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin&amp;nbsp;&lt;/font&gt;sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="240" width="140" height="30" as="geometry" />
+          <mxGeometry x="320" y="240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông báo&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="594" y="298" width="140" height="30" as="geometry" />
