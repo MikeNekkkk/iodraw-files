@@ -368,12 +368,11 @@
         <mxCell id="3IpZUN1du2BS_vwdQG4E-22" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;dữ liệu về chi phí&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;của căn hộ&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="620" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WQCQdrax6Dv66B77cUoX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IpZUN1du2BS_vwdQG4E-23" target="3IpZUN1du2BS_vwdQG4E-2">
+        <mxCell id="WQCQdrax6Dv66B77cUoX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3IpZUN1du2BS_vwdQG4E-23" target="3IpZUN1du2BS_vwdQG4E-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="735" y="500" />
               <mxPoint x="360" y="500" />
-              <mxPoint x="360" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
