@@ -1042,7 +1042,7 @@
         <mxCell id="G0HwdD0J3nA-QLCR9MBy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.364;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="btuweMgufnmn4-OlTEoH-18" target="Q-ot4h53uLnoj946qejc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G0HwdD0J3nA-QLCR9MBy-2" value="hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="G0HwdD0J3nA-QLCR9MBy-2" value="&amp;nbsp;hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="440" y="610" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
