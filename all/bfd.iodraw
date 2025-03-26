@@ -1144,7 +1144,7 @@
         <mxCell id="gX9L8A0MT3O8rsqF-hAp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gX9L8A0MT3O8rsqF-hAp-1">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gX9L8A0MT3O8rsqF-hAp-3" value="1.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gX9L8A0MT3O8rsqF-hAp-1">
+        <mxCell id="gX9L8A0MT3O8rsqF-hAp-3" value="6.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gX9L8A0MT3O8rsqF-hAp-1">
           <mxGeometry x="44.349650349650354" width="63.35664335664335" height="24" as="geometry" />
         </mxCell>
         <mxCell id="gX9L8A0MT3O8rsqF-hAp-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gX9L8A0MT3O8rsqF-hAp-1" target="gX9L8A0MT3O8rsqF-hAp-2">
@@ -1153,7 +1153,25 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gX9L8A0MT3O8rsqF-hAp-5" value="Lấy thông tin nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gX9L8A0MT3O8rsqF-hAp-1">
+        <mxCell id="gX9L8A0MT3O8rsqF-hAp-5" value="Thống kê doanh thu theo tháng và gởi bản thống kê" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gX9L8A0MT3O8rsqF-hAp-1">
+          <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="m19FNcJiDO8SEnPvIqwi-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="80" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m19FNcJiDO8SEnPvIqwi-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m19FNcJiDO8SEnPvIqwi-1">
+          <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m19FNcJiDO8SEnPvIqwi-3" value="6.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m19FNcJiDO8SEnPvIqwi-1">
+          <mxGeometry x="44.349650349650354" width="63.35664335664335" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="m19FNcJiDO8SEnPvIqwi-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="m19FNcJiDO8SEnPvIqwi-1" target="m19FNcJiDO8SEnPvIqwi-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="24" as="sourcePoint" />
+            <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19FNcJiDO8SEnPvIqwi-5" value="Thống kê doanh thu theo tháng và gởi bản thống kê" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m19FNcJiDO8SEnPvIqwi-1">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
       </root>
