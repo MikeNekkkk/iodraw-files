@@ -966,6 +966,9 @@
         <mxCell id="btuweMgufnmn4-OlTEoH-35" value="Biên lai" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="532" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oo2jLmpIWz9ivgGjd8Dw-1" value="Căn hộ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="542" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
