@@ -1183,7 +1183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oc9KOnh8nLrvfyagsE5E-2" value="Dữ liệu sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="130" height="50" as="geometry" />
+          <mxGeometry x="210" y="370" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="85kUJBs8BbbOzF0Z1C6p-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="390" y="370" width="151" height="80" as="geometry" />
@@ -1243,11 +1243,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WWZp2PTc6q9zWOudfk--8" value="Dữ liệu sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="3WWZp2PTc6q9zWOudfk--9" value="bản thống kê chí phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEtU-3AAQpGOH8rdMAB-1" value="Dữ liệu hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
