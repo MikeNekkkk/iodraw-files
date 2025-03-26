@@ -861,7 +861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wzT5hbwgBWdg6SgXQ9Tp" name="4.0">
-    <mxGraphModel dx="616" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="153" dy="80" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -930,11 +930,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="24" as="sourcePoint" />
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q-ot4h53uLnoj946qejc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="btuweMgufnmn4-OlTEoH-14" source="btuweMgufnmn4-OlTEoH-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="38.81481481481478" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-18" value="In hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btuweMgufnmn4-OlTEoH-14">
@@ -1015,6 +1010,11 @@
         </mxCell>
         <mxCell id="Q-ot4h53uLnoj946qejc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.604;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q-ot4h53uLnoj946qejc-3" target="btuweMgufnmn4-OlTEoH-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-ot4h53uLnoj946qejc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="btuweMgufnmn4-OlTEoH-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
