@@ -496,8 +496,11 @@
         <mxCell id="WQCQdrax6Dv66B77cUoX-2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;dữ&amp;nbsp; liệu về căn hộ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="510" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wl5y4ATkIkOE8WDGLuGA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wl5y4ATkIkOE8WDGLuGA-1" target="3IpZUN1du2BS_vwdQG4E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wl5y4ATkIkOE8WDGLuGA-1" value="Quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
