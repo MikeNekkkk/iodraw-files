@@ -517,7 +517,7 @@
         <mxCell id="oLpI0aFXwsthNOFpwUU9-3" value="D4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="oLpI0aFXwsthNOFpwUU9-2">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oLpI0aFXwsthNOFpwUU9-4" value="Căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oLpI0aFXwsthNOFpwUU9-2">
+        <mxCell id="oLpI0aFXwsthNOFpwUU9-4" value="Hồ sơ Căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oLpI0aFXwsthNOFpwUU9-2">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oLpI0aFXwsthNOFpwUU9-5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;thông tin về căn hộ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -754,7 +754,7 @@
         <mxCell id="63EEwrs9RtlkP7Pgtnda-2" value="D4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="63EEwrs9RtlkP7Pgtnda-1">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="63EEwrs9RtlkP7Pgtnda-3" value="Căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="63EEwrs9RtlkP7Pgtnda-1">
+        <mxCell id="63EEwrs9RtlkP7Pgtnda-3" value="Hồ sơ Căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="63EEwrs9RtlkP7Pgtnda-1">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ekRlc32fqOaAVmvNgrgN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
