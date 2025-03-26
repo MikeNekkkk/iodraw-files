@@ -1246,6 +1246,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3WWZp2PTc6q9zWOudfk--8" value="Dữ liệu sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
