@@ -981,7 +981,7 @@
         <mxCell id="oo2jLmpIWz9ivgGjd8Dw-1" value="Căn hộ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oo2jLmpIWz9ivgGjd8Dw-3" value="dữ liệu&amp;nbsp; &amp;nbsp;&lt;div&gt;(chi phí điện, nước của&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;rong1 tháng)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="oo2jLmpIWz9ivgGjd8Dw-3" value="&lt;div&gt;số điện, nước của&lt;/div&gt;&lt;div&gt;&amp;nbsp;căn hộ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;rong1 tháng&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="510" y="190" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
