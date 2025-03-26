@@ -497,7 +497,7 @@
           <mxGeometry x="150" y="510" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wl5y4ATkIkOE8WDGLuGA-1" value="Quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
