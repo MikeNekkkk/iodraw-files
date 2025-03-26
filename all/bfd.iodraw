@@ -1089,7 +1089,7 @@
         <mxCell id="WuJuEg88FAZ71NWtKNu5-25" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin&amp;nbsp;&lt;/font&gt;sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WuJuEg88FAZ71NWtKNu5-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WuJuEg88FAZ71NWtKNu5-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông báo&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="300" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
