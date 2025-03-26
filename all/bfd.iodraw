@@ -1244,10 +1244,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3WWZp2PTc6q9zWOudfk--9" value="bản thống kê chí phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="130" height="50" as="geometry" />
+          <mxGeometry x="560" y="220" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DCEtU-3AAQpGOH8rdMAB-1" value="Dữ liệu hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEtU-3AAQpGOH8rdMAB-2" value="bản thống kê chí phí theo quý" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
