@@ -647,11 +647,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FyXts1xY-3-SlPe1_Ubk" name="2.0">
-    <mxGraphModel dx="268" dy="140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="504" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jO7W4KAIrOV-ykk_O1nw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-3">
+        <mxCell id="jO7W4KAIrOV-ykk_O1nw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.274;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-3" target="PUbe-aqREx9gogltZV1j-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
@@ -705,9 +705,6 @@
         </mxCell>
         <mxCell id="o64RLzYif3j0WrNdPUvv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUbe-aqREx9gogltZV1j-11" target="PUbe-aqREx9gogltZV1j-4">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Zj60Yw1tozfGnLbV0woJ-1" value="thông tin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;căn hộ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="328" width="160" height="56" as="geometry" />
         </mxCell>
         <mxCell id="RMZoMrdYmk7ZnKLZNASY-5" value="thông tin&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;cư dân&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="100" height="56" as="geometry" />
