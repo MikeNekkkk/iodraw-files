@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17" pages="8">
   <diagram name="BFD" id="MTNTwyJEWwY95dM08vvv">
-    <mxGraphModel dx="347" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-111" value="Thống kê thu chi theo quý cho dân cư và gởi thống kê" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="737.33" y="530" width="90" height="80" as="geometry" />
+          <mxGeometry x="737.33" y="545" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-116" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -226,10 +226,10 @@
         </mxCell>
         <mxCell id="xDAXHT2j8NZ0hgLUzmXL-148" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="719.67" y="550" as="targetPoint" />
-            <mxPoint x="736.9999999999999" y="550" as="sourcePoint" />
+            <mxPoint x="720" y="569.79" as="targetPoint" />
+            <mxPoint x="737.3299999999999" y="569.79" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="727.67" y="540" />
+              <mxPoint x="728" y="559.79" />
             </Array>
           </mxGeometry>
         </mxCell>
