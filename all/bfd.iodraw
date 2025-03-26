@@ -1237,8 +1237,8 @@
         <mxCell id="DCEtU-3AAQpGOH8rdMAB-2" value="bản thống kê chí phí theo quý" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="70" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="12Dw9D-qII78f904nx_P-1" value="bản thống kê chí phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="130" height="50" as="geometry" />
+        <mxCell id="12Dw9D-qII78f904nx_P-1" value="bản thống kê sự cố theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
