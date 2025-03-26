@@ -779,7 +779,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPSVST8v4p4TRI784d1--40" value="In hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPSVST8v4p4TRI784d1--36">
+        <mxCell id="jPSVST8v4p4TRI784d1--40" value="In hợp đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jPSVST8v4p4TRI784d1--36">
           <mxGeometry x="1.06" y="24" width="149.94" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jPSVST8v4p4TRI784d1--42" value="thông tin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;căn hộ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
