@@ -1080,7 +1080,7 @@
         <mxCell id="WuJuEg88FAZ71NWtKNu5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WuJuEg88FAZ71NWtKNu5-5" target="WuJuEg88FAZ71NWtKNu5-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WuJuEg88FAZ71NWtKNu5-23" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WuJuEg88FAZ71NWtKNu5-23" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin&amp;nbsp;&lt;/font&gt;sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.642;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WuJuEg88FAZ71NWtKNu5-21" target="WuJuEg88FAZ71NWtKNu5-6">
