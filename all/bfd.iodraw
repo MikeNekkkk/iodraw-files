@@ -1214,6 +1214,9 @@
         <mxCell id="85kUJBs8BbbOzF0Z1C6p-5" value="Thống kê thu chi theo quý cho dân cư và gởi thống kê" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="85kUJBs8BbbOzF0Z1C6p-1">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="QLjAj6_Xm-Khqj85QjoQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r_WTKs_meFJxfK5a1-pn-3" target="85kUJBs8BbbOzF0Z1C6p-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
