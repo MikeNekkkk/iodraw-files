@@ -1240,6 +1240,13 @@
         <mxCell id="3WWZp2PTc6q9zWOudfk--6" value="Dữ liệu hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="220" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3WWZp2PTc6q9zWOudfk--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4o4_Br4mYR0YpuHDCRo-3" target="m19FNcJiDO8SEnPvIqwi-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
