@@ -794,7 +794,7 @@
         <mxCell id="im18mLekAAOa4g9bK-8j-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="im18mLekAAOa4g9bK-8j-2">
           <mxGeometry x="1.055944055944056" width="147.83216783216784" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="im18mLekAAOa4g9bK-8j-4" value="2.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="im18mLekAAOa4g9bK-8j-2">
+        <mxCell id="im18mLekAAOa4g9bK-8j-4" value="3.3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="im18mLekAAOa4g9bK-8j-2">
           <mxGeometry x="44.349650349650354" width="63.35664335664335" height="24" as="geometry" />
         </mxCell>
         <mxCell id="im18mLekAAOa4g9bK-8j-5" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="im18mLekAAOa4g9bK-8j-2" target="im18mLekAAOa4g9bK-8j-3">
@@ -808,7 +808,7 @@
             <mxPoint x="220" y="38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="im18mLekAAOa4g9bK-8j-7" value="kiểm duyệt và cập nhật thông tin cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="im18mLekAAOa4g9bK-8j-2">
+        <mxCell id="im18mLekAAOa4g9bK-8j-7" value="Kích hoạt thẻ lưu trứ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="im18mLekAAOa4g9bK-8j-2">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
       </root>
