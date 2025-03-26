@@ -659,7 +659,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FyXts1xY-3-SlPe1_Ubk" name="2.0">
-    <mxGraphModel dx="693" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="297" dy="155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -759,8 +759,8 @@
         </mxCell>
         <mxCell id="ekRlc32fqOaAVmvNgrgN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="290" as="sourcePoint" />
-            <mxPoint x="540" y="230" as="targetPoint" />
+            <mxPoint x="549.64" y="290" as="sourcePoint" />
+            <mxPoint x="549.64" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ekRlc32fqOaAVmvNgrgN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.642;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -773,7 +773,7 @@
           <mxGeometry x="550" y="244" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ekRlc32fqOaAVmvNgrgN-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin&amp;nbsp;&lt;/font&gt;Căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="260" width="140" height="30" as="geometry" />
+          <mxGeometry x="430" y="260" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
