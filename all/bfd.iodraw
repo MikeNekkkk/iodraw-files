@@ -1246,7 +1246,7 @@
         <mxCell id="3WWZp2PTc6q9zWOudfk--8" value="Dữ liệu sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3WWZp2PTc6q9zWOudfk--9" value="Dữ liệu hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3WWZp2PTc6q9zWOudfk--9" value="bản thống kê chí phí" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
