@@ -1173,7 +1173,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gX9L8A0MT3O8rsqF-hAp-5" value="Thống kê doanh thu theo tháng và gởi bản thống kê" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gX9L8A0MT3O8rsqF-hAp-1">
+        <mxCell id="gX9L8A0MT3O8rsqF-hAp-5" value="Thống kê thu chi theo quý cho dân cư và gởi thống kê" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gX9L8A0MT3O8rsqF-hAp-1">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="m19FNcJiDO8SEnPvIqwi-1" value="" style="group" vertex="1" connectable="0" parent="1">
