@@ -1191,7 +1191,7 @@
             <mxPoint x="123.07692307692308" y="27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m19FNcJiDO8SEnPvIqwi-5" value="Thống kê thu chi theo quý cho dân cư và gởi thống kê&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m19FNcJiDO8SEnPvIqwi-1">
+        <mxCell id="m19FNcJiDO8SEnPvIqwi-5" value="Thống kê doanh thu theo tháng và gởi bản thống kê&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m19FNcJiDO8SEnPvIqwi-1">
           <mxGeometry x="-1.116880470522872" y="27" width="158.8811188811189" height="63" as="geometry" />
         </mxCell>
         <mxCell id="VObEHzEASkJCUxfztaQr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4o4_Br4mYR0YpuHDCRo-3" target="gX9L8A0MT3O8rsqF-hAp-5">
@@ -1334,7 +1334,7 @@
         <mxCell id="0exYmkxZa7XpGd9QAvc--15" value="1 - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0exYmkxZa7XpGd9QAvc--16" value="1 - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0exYmkxZa7XpGd9QAvc--16" value="1 - n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--17" value="Phát sinh" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
