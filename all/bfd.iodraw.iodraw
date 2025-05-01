@@ -1279,7 +1279,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R-E_eKiAKG2UJxZqwg2O" name="er">
-    <mxGraphModel dx="832" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1377,7 +1377,7 @@
           <mxGeometry x="1070" y="635" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--28" value="CƯ DÂN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="250" y="745" width="160" height="120" as="geometry" />
+          <mxGeometry x="254" y="743" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--29" value="&lt;u&gt;Mã CD&lt;/u&gt;&lt;div&gt;CCCD&lt;/div&gt;&lt;div&gt;Họ và tên&lt;/div&gt;&lt;div&gt;SĐT&lt;/div&gt;&lt;div&gt;Số thành viên trong căn hộ&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="0exYmkxZa7XpGd9QAvc--28" vertex="1">
           <mxGeometry y="26" width="160" height="94" as="geometry" />
