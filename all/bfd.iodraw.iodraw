@@ -1567,7 +1567,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Jqi-NkacOwQufiKmU_q" name="Page-11">
-    <mxGraphModel dx="876" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1646,7 +1646,7 @@
         <mxCell id="tOuCmED6CH5MRnYBgt2J-21" value="1 - 1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tOuCmED6CH5MRnYBgt2J-22" value="CHI TIẾT THÔNG BÁO SỰ CỐ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tOuCmED6CH5MRnYBgt2J-22" value="&lt;li class=&quot;&quot; data-end=&quot;1144&quot; data-start=&quot;1120&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1144&quot; data-start=&quot;1122&quot;&gt;&lt;code data-end=&quot;1144&quot; data-start=&quot;1135&quot;&gt;BÁO CÁO&lt;/code&gt;&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;&quot; data-end=&quot;1168&quot; data-start=&quot;1145&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;1168&quot; data-start=&quot;1147&quot;&gt;&lt;/p&gt;&lt;/li&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="443" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tOuCmED6CH5MRnYBgt2J-23" value="Thời gian xảy ra sự cố&lt;div&gt;Thời gian khắc phuc&lt;/div&gt;&lt;div&gt;Trạng thái&lt;/div&gt;&lt;div&gt;Ghi chú&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="tOuCmED6CH5MRnYBgt2J-22">
