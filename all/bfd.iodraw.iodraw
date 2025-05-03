@@ -1671,10 +1671,10 @@
           <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="tOuCmED6CH5MRnYBgt2J-30" value="HỢP ĐỒNG" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="250" y="430" width="160" height="150" as="geometry" />
+          <mxGeometry x="250" y="413" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tOuCmED6CH5MRnYBgt2J-31" value="&lt;span style=&quot;background-color: initial;&quot;&gt;MaHD&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NgayKy&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NgayHetHan&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MaCD&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MaCanHo&lt;/span&gt;&lt;br&gt;&lt;code style=&quot;background-color: initial;&quot; data-end=&quot;1587&quot; data-start=&quot;1574&quot;&gt;LoaiHopDong&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; (mua/thuê)&lt;/span&gt;&lt;br&gt;&lt;code style=&quot;background-color: initial;&quot; data-end=&quot;1619&quot; data-start=&quot;1601&quot;&gt;TinhTrangHopDong&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; (hiệu lực/hết hạn...)&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="tOuCmED6CH5MRnYBgt2J-30">
-          <mxGeometry y="26" width="160" height="124" as="geometry" />
+          <mxGeometry y="26" width="160" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
