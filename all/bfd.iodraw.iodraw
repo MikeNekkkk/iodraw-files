@@ -1589,7 +1589,7 @@
         <mxCell id="cERyRH1XfPwBercRdiiJ-15" value="1 - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cERyRH1XfPwBercRdiiJ-16" value="1 - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cERyRH1XfPwBercRdiiJ-16" value="1 - n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cERyRH1XfPwBercRdiiJ-27" value="CĂN HỘ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
