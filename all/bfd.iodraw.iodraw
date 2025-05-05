@@ -1551,7 +1551,7 @@
         <mxCell id="0exYmkxZa7XpGd9QAvc--27" value="1 - n&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1070" y="635" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BsJOMAOaQUlaIVRPQJky-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0exYmkxZa7XpGd9QAvc--28">
+        <mxCell id="BsJOMAOaQUlaIVRPQJky-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0exYmkxZa7XpGd9QAvc--28" target="BsJOMAOaQUlaIVRPQJky-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="803" as="targetPoint" />
           </mxGeometry>
