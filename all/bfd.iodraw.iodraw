@@ -1533,7 +1533,7 @@
         <mxCell id="0exYmkxZa7XpGd9QAvc--21" value="1 - 1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0exYmkxZa7XpGd9QAvc--22" value="CHI TIẾT THÔNG BÁO SỰ CỐ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0exYmkxZa7XpGd9QAvc--22" value="THÔNG BÁO CHI TIẾT SỰ CỐ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="443" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--23" value="Thời gian xảy ra sự cố&lt;div&gt;Thời gian khắc phuc&lt;/div&gt;&lt;div&gt;Trạng thái&lt;/div&gt;&lt;div&gt;Ghi chú&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="0exYmkxZa7XpGd9QAvc--22" vertex="1">
