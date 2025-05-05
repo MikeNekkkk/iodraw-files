@@ -1615,7 +1615,7 @@
         <mxCell id="jBZLfAYexr4MJ9urIKZX-16" value="1 - n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="690" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jBZLfAYexr4MJ9urIKZX-19" value="z" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jBZLfAYexr4MJ9urIKZX-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="584.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jBZLfAYexr4MJ9urIKZX-20" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
