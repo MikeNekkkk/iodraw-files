@@ -1566,7 +1566,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Jqi-NkacOwQufiKmU_q" name="Page-11">
-    <mxGraphModel dx="792" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="640" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1592,8 +1592,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="500" />
-              <mxPoint x="940" y="500" />
-              <mxPoint x="940" y="503" />
+              <mxPoint x="960" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
