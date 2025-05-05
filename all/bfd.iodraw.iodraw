@@ -1688,8 +1688,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1279.68" y="1069.996" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1010" y="1322" />
-              <mxPoint x="1010" y="1325" />
+              <mxPoint x="960" y="1322" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1699,7 +1698,7 @@
         <mxCell id="H_H-PMCzrQXG8lowmov5-8" value="1 - 1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1205" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H_H-PMCzrQXG8lowmov5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.498;exitY=0.999;exitDx=0;exitDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="H_H-PMCzrQXG8lowmov5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.498;exitY=0.999;exitDx=0;exitDy=0;endArrow=none;endFill=0;exitPerimeter=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H_H-PMCzrQXG8lowmov5-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1280" y="1190.096" as="sourcePoint" />
             <mxPoint x="1280" y="1265" as="targetPoint" />
