@@ -1472,7 +1472,7 @@
         <mxCell id="0exYmkxZa7XpGd9QAvc--4" value="HÓA ĐƠN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="650" y="110" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="0exYmkxZa7XpGd9QAvc--5" value="&lt;u&gt;Mã HĐ&lt;/u&gt;&lt;div&gt;Số tiền&amp;nbsp;&lt;/div&gt;&lt;div&gt;Tên danh mục cần thanh toán&lt;/div&gt;&lt;div&gt;Ngày lập&amp;nbsp;&lt;/div&gt;&lt;div&gt;Trạng thái thanh toán&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="0exYmkxZa7XpGd9QAvc--4" vertex="1">
+        <mxCell id="0exYmkxZa7XpGd9QAvc--5" value="&lt;u&gt;Mã HĐ&lt;/u&gt;&lt;div&gt;Số tiền&amp;nbsp;&lt;/div&gt;&lt;div&gt;Tên danh mục cần thanh toán&lt;/div&gt;&lt;div&gt;Ngày lập&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="0exYmkxZa7XpGd9QAvc--4" vertex="1">
           <mxGeometry y="26" width="160" height="104" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--6" value="BÁN THÔNG BÁO SỰ CỐ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
@@ -1563,8 +1563,8 @@
         <mxCell id="0exYmkxZa7XpGd9QAvc--31" value="&lt;u&gt;Mã HĐ&lt;/u&gt;&lt;div&gt;Ngày kí&lt;/div&gt;&lt;div&gt;Ngày bàn giao&lt;/div&gt;&lt;div&gt;Quy định&lt;/div&gt;&lt;div&gt;Giá thuê&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="0exYmkxZa7XpGd9QAvc--30" vertex="1">
           <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="BsJOMAOaQUlaIVRPQJky-1" value="&lt;p style=&quot;text-align:left&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp; quan hệ động từ &lt;b&gt;Bo góc&lt;br&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;sở hữu&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;thuộc danh từ&amp;nbsp;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;oval&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="815" y="303" width="170" height="80" as="geometry" />
+        <mxCell id="BsJOMAOaQUlaIVRPQJky-1" value="&lt;p style=&quot;text-align: left; font-size: 15px;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp; quan hệ động từ &lt;b&gt;Bo góc&lt;br&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;sở hữu&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;thuộc danh từ&amp;nbsp;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;oval&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="310" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
