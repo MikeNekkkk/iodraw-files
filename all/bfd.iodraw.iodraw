@@ -1521,10 +1521,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--20" value="1 - n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="670" y="584.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--21" value="1 - 1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="645.1" width="60" height="30" as="geometry" />
+          <mxGeometry x="660" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--22" value="THÔNG BÁO CHI TIẾT SỰ CỐ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="443" width="160" height="120" as="geometry" />
@@ -1586,7 +1586,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cERyRH1XfPwBercRdiiJ-15" value="1 - n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cERyRH1XfPwBercRdiiJ-15" value="1 - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cERyRH1XfPwBercRdiiJ-16" value="1 - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
