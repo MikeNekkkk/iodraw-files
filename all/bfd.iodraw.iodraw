@@ -1583,7 +1583,7 @@
           <mxGeometry y="26" width="180" height="94" as="geometry" />
         </mxCell>
         <mxCell id="IzfFpAWmg_uZG-FEPewz-11" value="THÔNG BÁO CHI TIẾT SỰ CỐ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="443" width="160" height="120" as="geometry" />
+          <mxGeometry x="940" y="443" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IzfFpAWmg_uZG-FEPewz-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Thời gian xảy ra sự cố&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Trạng thái&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ghi chú&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="IzfFpAWmg_uZG-FEPewz-11">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -1597,13 +1597,13 @@
         <mxCell id="IzfFpAWmg_uZG-FEPewz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.01;entryY=0.286;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="IzfFpAWmg_uZG-FEPewz-12" target="IzfFpAWmg_uZG-FEPewz-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1380" y="493" />
-              <mxPoint x="1380" y="496" />
+              <mxPoint x="1290" y="493" />
+              <mxPoint x="1290" y="496" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IzfFpAWmg_uZG-FEPewz-16" value="1 - n&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="635" width="60" height="30" as="geometry" />
+          <mxGeometry x="1170" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
