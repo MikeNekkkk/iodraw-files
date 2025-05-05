@@ -1597,7 +1597,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Jqi-NkacOwQufiKmU_q" name="Page-11">
-    <mxGraphModel dx="832" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1705,6 +1705,9 @@
         </mxCell>
         <mxCell id="tOuCmED6CH5MRnYBgt2J-31" value="&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;MaHD&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;NgayKy&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;NgayHetHan&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;MaCD&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;MaCanHo&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;code data-start=&quot;1574&quot; data-end=&quot;1587&quot; style=&quot;background-color: initial; font-size: 13px;&quot;&gt;LoaiHopDong&lt;/code&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt; (mua/thuê)&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;code data-start=&quot;1601&quot; data-end=&quot;1619&quot; style=&quot;background-color: initial; font-size: 13px;&quot;&gt;TinhTrangHopDong&lt;/code&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt; (hiệu lực/hết hạn...)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;align=center;" parent="tOuCmED6CH5MRnYBgt2J-30" vertex="1">
           <mxGeometry y="26" width="160" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="63MP2Mtpe07P8Pgi8KR1-1" value="&lt;p style=&quot;text-align: left; font-size: 15px;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp; quan hệ động từ &lt;b&gt;Bo góc&lt;br&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;sở hữu&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;thuộc danh từ&amp;nbsp;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;oval&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-110" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
