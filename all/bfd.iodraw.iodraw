@@ -1747,13 +1747,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6aIKQxzfokZIu6LAKxw0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.033;exitY=0.289;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" target="6aIKQxzfokZIu6LAKxw0-2" source="6aIKQxzfokZIu6LAKxw0-7">
+        <mxCell id="6aIKQxzfokZIu6LAKxw0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.984;exitY=0.332;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" target="6aIKQxzfokZIu6LAKxw0-2" source="6aIKQxzfokZIu6LAKxw0-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="329.9999999999998" y="745" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="430" y="746" />
-              <mxPoint x="425" y="746" />
-              <mxPoint x="425" y="800" />
               <mxPoint x="570" y="800" />
             </Array>
           </mxGeometry>
