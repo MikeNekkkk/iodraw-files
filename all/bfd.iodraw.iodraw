@@ -1632,6 +1632,12 @@
         <mxCell id="hvq2xkKQ5CadcZgSkR_g-2" value="&lt;u style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mã HĐon&lt;/font&gt;&lt;/u&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Tiền Điện&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Tiền&amp;nbsp;Nước&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Chi Phí cố Định&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Tổng tiền&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ngày lập&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="hvq2xkKQ5CadcZgSkR_g-1" vertex="1">
           <mxGeometry y="26" width="160" height="114" as="geometry" />
         </mxCell>
+        <mxCell id="N9sv84qUIB372sbbG8ua-1" value="BÁN THÔNG BÁO SỰ CỐ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="740" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N9sv84qUIB372sbbG8ua-2" value="&lt;u style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mã SC&lt;/font&gt;&lt;/u&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Tên sự cố&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Loại sự cố&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mô tả chi tiết&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="N9sv84qUIB372sbbG8ua-1">
+          <mxGeometry y="26" width="180" height="94" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1743,7 +1749,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zxFvbNEVK1_KnVcUpZQQ" name="Page-12">
-    <mxGraphModel dx="132" dy="69" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="666" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
