@@ -1767,10 +1767,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6aIKQxzfokZIu6LAKxw0-4" value="1 - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6aIKQxzfokZIu6LAKxw0-5" value="1 - n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6aIKQxzfokZIu6LAKxw0-6" value="CƯ DÂN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="254" y="743" width="170" height="120" as="geometry" />
