@@ -1617,7 +1617,7 @@
         <mxCell id="0exYmkxZa7XpGd9QAvc--30" value="HỢP ĐỒNG" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0exYmkxZa7XpGd9QAvc--31" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Mã HĐ&lt;/u&gt;&lt;div&gt;Ngày kí&lt;/div&gt;&lt;div&gt;Ngày bàn giao&lt;/div&gt;&lt;div&gt;Quy định&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="0exYmkxZa7XpGd9QAvc--30" vertex="1">
+        <mxCell id="0exYmkxZa7XpGd9QAvc--31" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Mã HĐong&lt;/u&gt;&lt;div&gt;Ngày kí&lt;/div&gt;&lt;div&gt;Ngày bàn giao&lt;/div&gt;&lt;div&gt;Quy định&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="0exYmkxZa7XpGd9QAvc--30" vertex="1">
           <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="yEzFsUtZ9QJaGcoXXGJ_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.498;exitY=0.999;exitDx=0;exitDy=0;endArrow=none;endFill=0;exitPerimeter=0;" parent="1" edge="1">
@@ -1781,7 +1781,7 @@
         <mxCell id="6aIKQxzfokZIu6LAKxw0-8" value="HỢP ĐỒNG" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="720" y="743" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6aIKQxzfokZIu6LAKxw0-9" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Mã HĐ&lt;/u&gt;&lt;div&gt;Ngày kí&lt;/div&gt;&lt;div&gt;Ngày bàn giao&lt;/div&gt;&lt;div&gt;Quy định&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6aIKQxzfokZIu6LAKxw0-8">
+        <mxCell id="6aIKQxzfokZIu6LAKxw0-9" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Mã HĐong&lt;/u&gt;&lt;div&gt;Ngày kí&lt;/div&gt;&lt;div&gt;Ngày bàn giao&lt;/div&gt;&lt;div&gt;Quy định&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6aIKQxzfokZIu6LAKxw0-8">
           <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
       </root>
