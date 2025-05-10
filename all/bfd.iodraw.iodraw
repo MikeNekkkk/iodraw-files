@@ -677,6 +677,9 @@
             <mxPoint x="27.203846153846143" y="534" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JspwTfuS6cHP_DeMFtgW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WbM4m7F3agRifBHvS6SE-67" target="WbM4m7F3agRifBHvS6SE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Quản lý tài chính&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-90.00405594405595" y="534" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
