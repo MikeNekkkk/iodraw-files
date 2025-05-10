@@ -601,9 +601,6 @@
             <mxPoint x="-19.959999999999923" y="786.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WbM4m7F3agRifBHvS6SE-38" value="Tổng chí phí căn hộ&lt;div&gt;hằng tháng&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="605" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-42" value="Bản thống kê doanh thu, bản thống kê&amp;nbsp;tổng các sự cố an ninh đã xảy ra" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-170" y="885" width="130" height="60" as="geometry" />
         </mxCell>
@@ -817,7 +814,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="email, CCDD,Tên" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="260" width="80" height="56" as="geometry" />
+          <mxGeometry x="520" y="270" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="Tên căn hộ&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="640" width="180" height="56" as="geometry" />
