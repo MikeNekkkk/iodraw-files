@@ -848,7 +848,7 @@
         <mxCell id="yRk9uGFGyGlRXWv4JyDx-1" value="dữ liệu về tất cá thành Viên" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="80" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="yRk9uGFGyGlRXWv4JyDx-2" value="số liệu thành viên trong căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yRk9uGFGyGlRXWv4JyDx-2" value="số thành viên trong căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="430" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
