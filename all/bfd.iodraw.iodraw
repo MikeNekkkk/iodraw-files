@@ -594,9 +594,9 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="WbM4m7F3agRifBHvS6SE-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-230" y="665" />
-              <mxPoint x="-180" y="665" />
-              <mxPoint x="-180" y="565" />
+              <mxPoint x="-215" y="665" />
+              <mxPoint x="-160" y="665" />
+              <mxPoint x="-160" y="565" />
             </Array>
             <mxPoint x="-90" y="565" as="targetPoint" />
           </mxGeometry>
@@ -605,7 +605,7 @@
           <mxGeometry x="-275" y="704" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-47" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;số điện, nước của&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;căn hộ&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="625" width="150" height="50" as="geometry" />
+          <mxGeometry x="-281.18" y="615" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-387.83405594405593" y="245" width="147.83216783216784" height="80" as="geometry" />
