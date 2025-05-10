@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IaKLUrfVjWOzVBScQ_xa" name="Sơ đồ luồng dữ liệu">
-    <mxGraphModel dx="1189" dy="189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1936" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -716,9 +716,9 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Quản lý an ninh an toàn&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="189.995944055944" y="829" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="mcEhs2cH6ITfsrPVjx6T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="mcEhs2cH6ITfsrPVjx6T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WbM4m7F3agRifBHvS6SE-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-309" y="480" as="targetPoint" />
+            <mxPoint x="-309" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-309" y="420" />
             </Array>
