@@ -1201,7 +1201,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-18" value="In hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="btuweMgufnmn4-OlTEoH-14" vertex="1">
+        <mxCell id="btuweMgufnmn4-OlTEoH-18" value="In và gởi hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="btuweMgufnmn4-OlTEoH-14" vertex="1">
           <mxGeometry x="1.055944055944056" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="btuweMgufnmn4-OlTEoH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.523;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="btuweMgufnmn4-OlTEoH-8" edge="1">
