@@ -494,7 +494,7 @@
           <mxGeometry x="280" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin cư dân&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="265" width="140" height="30" as="geometry" />
+          <mxGeometry x="110" y="265" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin đã tiếp nhận&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-220" y="265" width="140" height="30" as="geometry" />
