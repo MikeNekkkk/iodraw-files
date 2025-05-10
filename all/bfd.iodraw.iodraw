@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IaKLUrfVjWOzVBScQ_xa" name="Sơ đồ luồng dữ liệu">
-    <mxGraphModel dx="2907" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2107" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -739,6 +739,20 @@
         </mxCell>
         <mxCell id="QT7q0hULKOt5Tex59mD7-1" value="thẻ lưu trú" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="100" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="vZsf4oczAWQtmmD_Wbg5-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZsf4oczAWQtmmD_Wbg5-2" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="vZsf4oczAWQtmmD_Wbg5-1">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZsf4oczAWQtmmD_Wbg5-3" value="Hồ sơ cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vZsf4oczAWQtmmD_Wbg5-1">
+          <mxGeometry x="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vZsf4oczAWQtmmD_Wbg5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vZsf4oczAWQtmmD_Wbg5-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="290" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
