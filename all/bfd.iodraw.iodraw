@@ -1081,6 +1081,15 @@
         <mxCell id="5x7v0YcdQnLWZdlRywtJ-3" value="Hồ sơ Căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5x7v0YcdQnLWZdlRywtJ-1" vertex="1">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EMEDVqLTSed4jvk6E24E-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMEDVqLTSed4jvk6E24E-2" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="EMEDVqLTSed4jvk6E24E-1">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMEDVqLTSed4jvk6E24E-3" value="Hồ sơ cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EMEDVqLTSed4jvk6E24E-1">
+          <mxGeometry x="30" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
