@@ -1616,7 +1616,7 @@
             <mxPoint x="550.0000000000002" y="803.0526315789474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EAvWODXuqEKHyFO1seDZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EAvWODXuqEKHyFO1seDZ-22" target="EAvWODXuqEKHyFO1seDZ-26">
+        <mxCell id="EAvWODXuqEKHyFO1seDZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="EAvWODXuqEKHyFO1seDZ-22" target="EAvWODXuqEKHyFO1seDZ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EAvWODXuqEKHyFO1seDZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EAvWODXuqEKHyFO1seDZ-3" target="EAvWODXuqEKHyFO1seDZ-13">
@@ -1635,7 +1635,7 @@
           <mxGeometry x="530" y="610" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EAvWODXuqEKHyFO1seDZ-32" value="bản thống kê sự cố theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="900" width="130" height="50" as="geometry" />
+          <mxGeometry x="540" y="890" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EAvWODXuqEKHyFO1seDZ-33" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="100.00000000000006" y="1060" width="140" height="30" as="geometry" />
