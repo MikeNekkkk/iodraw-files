@@ -810,7 +810,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="thông tin cá nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="Thông tin cá nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="270" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="Tên căn hộ&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -848,7 +848,7 @@
         <mxCell id="yRk9uGFGyGlRXWv4JyDx-1" value="Số liệu về người đăng ký cư trú" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="80" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="yRk9uGFGyGlRXWv4JyDx-2" value="tổng số thành viên trong căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yRk9uGFGyGlRXWv4JyDx-2" value="Tổng số thành viên trong căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="430" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
