@@ -1496,7 +1496,7 @@
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-1" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="130.00000000000006" y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-2" value="D4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
+        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-2" value="D5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
           <mxGeometry width="116.66666666666667" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-3" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
