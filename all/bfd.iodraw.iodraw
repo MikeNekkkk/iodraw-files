@@ -649,10 +649,12 @@
             <mxPoint x="-272.73615384615385" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JspwTfuS6cHP_DeMFtgW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WbM4m7F3agRifBHvS6SE-63" target="WbM4m7F3agRifBHvS6SE-71">
+        <mxCell id="JspwTfuS6cHP_DeMFtgW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WbM4m7F3agRifBHvS6SE-63" target="JspwTfuS6cHP_DeMFtgW-6">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="790" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-310" y="828" />
+              <mxPoint x="-307" y="828" />
             </Array>
           </mxGeometry>
         </mxCell>
