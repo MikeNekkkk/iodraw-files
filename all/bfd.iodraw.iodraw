@@ -852,7 +852,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRk9uGFGyGlRXWv4JyDx-1" value="số thành viên&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yRk9uGFGyGlRXWv4JyDx-1" value="dữ liệu về tất cá thành viene" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yRk9uGFGyGlRXWv4JyDx-2" value="Dữ liệu các thành v" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
