@@ -1363,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3MKTPbCvcGh4bJ28dkgH" name="6.0">
-    <mxGraphModel dx="333" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1494,7 +1494,7 @@
           <mxGeometry x="570" y="360" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-1" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="120.00000000000006" y="260" width="140" height="30" as="geometry" />
+          <mxGeometry x="120.00000000000006" y="530" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-2" value="D5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
           <mxGeometry width="116.66666666666667" height="30" as="geometry" />
@@ -1502,12 +1502,12 @@
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-3" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
           <mxGeometry x="35" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3" target="m19FNcJiDO8SEnPvIqwi-5">
+        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="275" as="targetPoint" />
+            <mxPoint x="388.8831195294772" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="324" y="275" />
-              <mxPoint x="324" y="280" />
+              <mxPoint x="290" y="550" />
+              <mxPoint x="290" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
