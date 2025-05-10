@@ -451,7 +451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IaKLUrfVjWOzVBScQ_xa" name="Sơ đồ luồng dữ liệu">
-    <mxGraphModel dx="897" dy="37" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1936" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -664,11 +664,12 @@
             <mxPoint x="-272.73615384615385" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JspwTfuS6cHP_DeMFtgW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WbM4m7F3agRifBHvS6SE-63">
+        <mxCell id="JspwTfuS6cHP_DeMFtgW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-310" y="810" as="targetPoint" />
+            <mxPoint x="-339.96000000000004" y="585" as="sourcePoint" />
+            <mxPoint x="-340" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-310" y="740" />
+              <mxPoint x="-340" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -994,7 +995,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dQ_JVytFoeWREezS71g5" name="3.0">
-    <mxGraphModel dx="876" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1103,6 +1104,15 @@
         </mxCell>
         <mxCell id="EMEDVqLTSed4jvk6E24E-3" value="Hồ sơ cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EMEDVqLTSed4jvk6E24E-1">
           <mxGeometry x="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c_IYMz9VEOJAAtWnQifC-1" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-389.94" y="814" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c_IYMz9VEOJAAtWnQifC-2" value="D5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" vertex="1" parent="c_IYMz9VEOJAAtWnQifC-1">
+          <mxGeometry width="116.66666666666667" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c_IYMz9VEOJAAtWnQifC-3" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c_IYMz9VEOJAAtWnQifC-1">
+          <mxGeometry x="35" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
