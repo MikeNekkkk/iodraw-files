@@ -726,7 +726,7 @@
         <mxCell id="JspwTfuS6cHP_DeMFtgW-4" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-389.94" y="814" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JspwTfuS6cHP_DeMFtgW-5" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" vertex="1" parent="JspwTfuS6cHP_DeMFtgW-4">
+        <mxCell id="JspwTfuS6cHP_DeMFtgW-5" value="D4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" vertex="1" parent="JspwTfuS6cHP_DeMFtgW-4">
           <mxGeometry width="116.66666666666667" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JspwTfuS6cHP_DeMFtgW-6" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JspwTfuS6cHP_DeMFtgW-4">
