@@ -1363,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3MKTPbCvcGh4bJ28dkgH" name="6.0">
-    <mxGraphModel dx="693" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1681,7 +1681,7 @@
         <mxCell id="wv2ugD7DfkNhGUw5Pv9q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrDBui7ExOTLT9kGUQ1J-5" target="EAvWODXuqEKHyFO1seDZ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wv2ugD7DfkNhGUw5Pv9q-2" value="bản thống kê số lượng căn hộ đã được thuê" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wv2ugD7DfkNhGUw5Pv9q-2" value="bản thống kê số lượng căn hộ đã được thuê trong tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="1020" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
