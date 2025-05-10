@@ -1121,6 +1121,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-mE2fAX41IOCF1KS4a1i-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.0&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Quản lý giao dịch&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1260,9 +1263,6 @@
         </mxCell>
         <mxCell id="wSmXLerdw6dY26m-_JDs-3" value="Hồ sơ Căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wSmXLerdw6dY26m-_JDs-1">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NN4IUPg8Zbgg046gDjyR-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.0&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Quản lý giao dịch&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
