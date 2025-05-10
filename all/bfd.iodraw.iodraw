@@ -1282,7 +1282,7 @@
           <mxGeometry x="140" y="270" width="100" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-18" value="thông tin&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;đã được&amp;nbsp;&lt;/div&gt;&lt;div&gt;kiểm duyệt&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="326" width="160" height="56" as="geometry" />
+          <mxGeometry x="360" y="350" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-19" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="260" y="200" width="120" height="30" as="geometry" />
