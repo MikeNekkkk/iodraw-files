@@ -1688,7 +1688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R-E_eKiAKG2UJxZqwg2O" name="er">
-    <mxGraphModel dx="1490" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="389" dy="189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1759,7 +1759,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1066.6000000000004" y="519.8" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1070" y="520" />
+              <mxPoint x="1067" y="540" />
+              <mxPoint x="1070" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1800,6 +1801,12 @@
           <mxGeometry x="272.5" y="608.25" width="115" height="61.75" as="geometry" />
         </mxCell>
         <mxCell id="4MNg81Ts5AL61Rmg6YH9-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="4MNg81Ts5AL61Rmg6YH9-1">
+          <mxGeometry y="42" width="115" height="19.75" as="geometry" />
+        </mxCell>
+        <mxCell id="4MPlo4G0lJy2Ep5stchV-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Kí&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=17;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="475" width="115" height="61.75" as="geometry" />
+        </mxCell>
+        <mxCell id="4MPlo4G0lJy2Ep5stchV-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="4MPlo4G0lJy2Ep5stchV-1">
           <mxGeometry y="42" width="115" height="19.75" as="geometry" />
         </mxCell>
       </root>
