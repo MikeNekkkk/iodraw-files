@@ -1319,7 +1319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3MKTPbCvcGh4bJ28dkgH" name="6.0">
-    <mxGraphModel dx="876" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1189" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1458,8 +1458,10 @@
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-3" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
           <mxGeometry x="35" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3" target="85kUJBs8BbbOzF0Z1C6p-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="525" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
