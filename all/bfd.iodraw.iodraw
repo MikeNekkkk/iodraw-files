@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RhVbQl-sKehF1Vn6MAZr" name="Page-10">
-    <mxGraphModel dx="2107" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,13 +847,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-6" value="thông tin nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="260" width="80" height="56" as="geometry" />
+          <mxGeometry x="520" y="260" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="thông tin về căn hộ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="650" width="80" height="56" as="geometry" />
+          <mxGeometry x="520" y="640" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="thông tin&amp;nbsp; nhân cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="260" width="80" height="56" as="geometry" />
+          <mxGeometry x="250" y="250" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-4" value="thông tin về căn hộ đã chọn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="640" width="100" height="56" as="geometry" />
