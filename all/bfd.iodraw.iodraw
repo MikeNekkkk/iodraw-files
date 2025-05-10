@@ -1757,13 +1757,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--25" value="0 - n&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="860" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="800" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="0exYmkxZa7XpGd9QAvc--23" target="0exYmkxZa7XpGd9QAvc--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--27" value="1 - n&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="635" width="60" height="30" as="geometry" />
+          <mxGeometry x="1060" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0exYmkxZa7XpGd9QAvc--28" value="CƯ DÂN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="254" y="743" width="170" height="120" as="geometry" />
