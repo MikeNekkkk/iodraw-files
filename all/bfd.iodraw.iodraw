@@ -1195,7 +1195,7 @@
             <mxPoint x="358.945944055944" y="562" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btuweMgufnmn4-OlTEoH-35" value="Biên lai" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="btuweMgufnmn4-OlTEoH-35" value="Hoá Đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="532" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oo2jLmpIWz9ivgGjd8Dw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oo2jLmpIWz9ivgGjd8Dw-1" target="btuweMgufnmn4-OlTEoH-8" edge="1">
