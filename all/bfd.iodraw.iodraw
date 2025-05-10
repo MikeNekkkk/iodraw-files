@@ -885,7 +885,7 @@
           <mxGeometry x="250" y="430" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yRk9uGFGyGlRXWv4JyDx-2" value="Dữ liệu các thành v" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="440" width="80" height="56" as="geometry" />
+          <mxGeometry x="520" y="430" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
