@@ -645,8 +645,14 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-59" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Tiếp nhận thông tin cư dân&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70.00405594405595" y="289" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="wnp2PV9PhntdAt4AjAjo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WbM4m7F3agRifBHvS6SE-60" target="WbM4m7F3agRifBHvS6SE-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wnp2PV9PhntdAt4AjAjo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WbM4m7F3agRifBHvS6SE-63" target="WbM4m7F3agRifBHvS6SE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-500" y="557" />
+              <mxPoint x="-500" y="110" />
+              <mxPoint x="340" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-387.83405594405593" y="505" width="147.83216783216784" height="80" as="geometry" />
