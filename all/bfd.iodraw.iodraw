@@ -1249,7 +1249,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WuJuEg88FAZ71NWtKNu5-9" value="Tiếp nhận và&amp;nbsp;Xác thực sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WuJuEg88FAZ71NWtKNu5-4" vertex="1">
+        <mxCell id="WuJuEg88FAZ71NWtKNu5-9" value="Tiếp nhận và Xử lý thông tin sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WuJuEg88FAZ71NWtKNu5-4" vertex="1">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-10" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
