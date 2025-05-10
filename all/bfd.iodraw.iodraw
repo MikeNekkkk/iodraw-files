@@ -595,7 +595,7 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-32" value="Hồ sơ thông báo sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WbM4m7F3agRifBHvS6SE-30" vertex="1">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WbM4m7F3agRifBHvS6SE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WbM4m7F3agRifBHvS6SE-31" edge="1">
+        <mxCell id="WbM4m7F3agRifBHvS6SE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.92;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WbM4m7F3agRifBHvS6SE-31" edge="1" target="WbM4m7F3agRifBHvS6SE-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="845" as="targetPoint" />
           </mxGeometry>
