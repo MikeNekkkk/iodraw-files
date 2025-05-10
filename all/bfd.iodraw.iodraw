@@ -1040,7 +1040,7 @@
         <mxCell id="gj4YziLwm9NeJPSAOgXz-5" value="thông tin&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;đã được kiểm tra&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="390" width="100" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="gj4YziLwm9NeJPSAOgXz-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4.0&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Quản lý tài chính&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gj4YziLwm9NeJPSAOgXz-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Cu Dân&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="im18mLekAAOa4g9bK-8j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="im18mLekAAOa4g9bK-8j-7" target="gj4YziLwm9NeJPSAOgXz-6" edge="1">
