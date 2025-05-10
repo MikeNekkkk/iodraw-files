@@ -1795,7 +1795,7 @@
             <mxPoint x="330" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MNg81Ts5AL61Rmg6YH9-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;THÔNG BÁO CHI TIẾT SỰ CỐ&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=17;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4MNg81Ts5AL61Rmg6YH9-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Kí&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=17;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="608.25" width="130" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="4MNg81Ts5AL61Rmg6YH9-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="4MNg81Ts5AL61Rmg6YH9-1">
