@@ -260,9 +260,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GChu5U1Dl_aQLFD47Yyh-1" value="thẻ lưu trú" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="606" width="100" height="56" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -442,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IaKLUrfVjWOzVBScQ_xa" name="Sơ đồ luồng dữ liệu">
-    <mxGraphModel dx="2214" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -739,6 +736,9 @@
               <mxPoint x="-340.06" y="459" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QT7q0hULKOt5Tex59mD7-1" value="thẻ lưu trú" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="100" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
