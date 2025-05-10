@@ -451,7 +451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IaKLUrfVjWOzVBScQ_xa" name="Sơ đồ luồng dữ liệu">
-    <mxGraphModel dx="1867" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,10 +505,13 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;thông tin đã tiếp nhận&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-220" y="265" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WbM4m7F3agRifBHvS6SE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1" target="WbM4m7F3agRifBHvS6SE-26">
+        <mxCell id="WbM4m7F3agRifBHvS6SE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" target="WbM4m7F3agRifBHvS6SE-26" source="WbM4m7F3agRifBHvS6SE-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="265" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="-281" y="220" />
+              <mxPoint x="-285" y="220" />
+            </Array>
             <mxPoint x="-290" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
