@@ -1363,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3MKTPbCvcGh4bJ28dkgH" name="6.0">
-    <mxGraphModel dx="876" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="333" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1475,13 +1475,12 @@
         <mxCell id="3WWZp2PTc6q9zWOudfk--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="85kUJBs8BbbOzF0Z1C6p-5" target="3WWZp2PTc6q9zWOudfk--3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3WWZp2PTc6q9zWOudfk--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="T4o4_Br4mYR0YpuHDCRo-3" target="m19FNcJiDO8SEnPvIqwi-5" edge="1">
+        <mxCell id="3WWZp2PTc6q9zWOudfk--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T4o4_Br4mYR0YpuHDCRo-3" target="m19FNcJiDO8SEnPvIqwi-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="190" />
               <mxPoint x="330" y="190" />
               <mxPoint x="330" y="240" />
-              <mxPoint x="389" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
