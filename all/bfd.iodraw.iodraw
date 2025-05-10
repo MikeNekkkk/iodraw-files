@@ -816,7 +816,7 @@
         <mxCell id="epW8fJm1axzrAWLEhZVH-7" value="Tên căn hộ&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="640" width="110" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="Thông tin khai báo cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FsZ_9adGmiTE_zcggbIn-3" value="Thông tin cư dân khai báo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="250" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="FsZ_9adGmiTE_zcggbIn-4" value="thông tin vê căn hộ muốn chọn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
