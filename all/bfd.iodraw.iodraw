@@ -451,7 +451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IaKLUrfVjWOzVBScQ_xa" name="Sơ đồ luồng dữ liệu">
-    <mxGraphModel dx="1936" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,7 +754,7 @@
         </mxCell>
         <mxCell id="iX2r7jT0vnA8ekrFJWZu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wu3oxHzfupcp9LOysUri-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-340" y="510" as="targetPoint" />
+            <mxPoint x="-340" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-340" y="543" />
             </Array>
