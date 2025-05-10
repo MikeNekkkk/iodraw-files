@@ -1502,12 +1502,12 @@
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-3" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
           <mxGeometry x="35" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3" target="m19FNcJiDO8SEnPvIqwi-5">
+        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3" target="m19FNcJiDO8SEnPvIqwi-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="275" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="275" />
-              <mxPoint x="400" y="279" />
+              <mxPoint x="324" y="275" />
+              <mxPoint x="324" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
