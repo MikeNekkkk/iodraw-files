@@ -645,6 +645,9 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-59" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Tiếp nhận thông tin cư dân&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70.00405594405595" y="289" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="wnp2PV9PhntdAt4AjAjo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WbM4m7F3agRifBHvS6SE-60" target="WbM4m7F3agRifBHvS6SE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-387.83405594405593" y="505" width="147.83216783216784" height="80" as="geometry" />
         </mxCell>
@@ -655,15 +658,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-388.89" y="529" as="sourcePoint" />
             <mxPoint x="-272.73615384615385" y="529" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JspwTfuS6cHP_DeMFtgW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-339.96000000000004" y="585" as="sourcePoint" />
-            <mxPoint x="-340" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-340" y="740" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Quản lý giao dịch&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
