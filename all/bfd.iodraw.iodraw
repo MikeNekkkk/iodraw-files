@@ -1319,7 +1319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3MKTPbCvcGh4bJ28dkgH" name="6.0">
-    <mxGraphModel dx="1664" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="876" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1385,9 +1385,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oc9KOnh8nLrvfyagsE5E-2" value="Dữ liệu sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="370" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="85kUJBs8BbbOzF0Z1C6p-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="390" y="370" width="151" height="80" as="geometry" />
         </mxCell>
@@ -1412,9 +1409,6 @@
               <mxPoint x="180" y="416" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QLjAj6_Xm-Khqj85QjoQ-2" value="Dữ liệu hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="150" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3WWZp2PTc6q9zWOudfk--1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Căn hộ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="90" width="120" height="60" as="geometry" />
@@ -1449,9 +1443,6 @@
         <mxCell id="3WWZp2PTc6q9zWOudfk--9" value="bản thống kê chí phí theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="220" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DCEtU-3AAQpGOH8rdMAB-1" value="Dữ liệu hóa đơn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="80" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="DCEtU-3AAQpGOH8rdMAB-2" value="bản thống kê chí phí theo quý" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="70" width="130" height="50" as="geometry" />
         </mxCell>
@@ -1466,6 +1457,9 @@
         </mxCell>
         <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-3" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wq5NRf9mVMxm3Nwjw9hP-1">
           <mxGeometry x="35" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3" target="85kUJBs8BbbOzF0Z1C6p-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
