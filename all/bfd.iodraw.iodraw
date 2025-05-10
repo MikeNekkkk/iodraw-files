@@ -1249,7 +1249,7 @@
             <mxPoint x="116.15384615384615" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WuJuEg88FAZ71NWtKNu5-9" value="Tiếp nhận sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WuJuEg88FAZ71NWtKNu5-4" vertex="1">
+        <mxCell id="WuJuEg88FAZ71NWtKNu5-9" value="Tiếp nhận và&amp;nbsp;Xác thực sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WuJuEg88FAZ71NWtKNu5-4" vertex="1">
           <mxGeometry x="-1.0540559440559605" y="24" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-10" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
@@ -1276,7 +1276,7 @@
         <mxCell id="WuJuEg88FAZ71NWtKNu5-17" value="thông tin sự cố" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="270" width="100" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="WuJuEg88FAZ71NWtKNu5-18" value="sự cố&amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;đã được&amp;nbsp;&lt;/div&gt;&lt;div&gt;kiểm duyệt&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="WuJuEg88FAZ71NWtKNu5-18" value="thông tin sự" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="260" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WuJuEg88FAZ71NWtKNu5-19" value="" style="group" parent="1" vertex="1" connectable="0">
