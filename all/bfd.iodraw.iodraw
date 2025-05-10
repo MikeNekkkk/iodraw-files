@@ -749,9 +749,14 @@
         <mxCell id="vZsf4oczAWQtmmD_Wbg5-8" value="Hồ sơ cư dân" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vZsf4oczAWQtmmD_Wbg5-6">
           <mxGeometry x="30" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vZsf4oczAWQtmmD_Wbg5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="vZsf4oczAWQtmmD_Wbg5-8" source="WbM4m7F3agRifBHvS6SE-53">
+        <mxCell id="vZsf4oczAWQtmmD_Wbg5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="vZsf4oczAWQtmmD_Wbg5-8" source="WbM4m7F3agRifBHvS6SE-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-315" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-313" y="218" />
+              <mxPoint x="-315" y="218" />
+              <mxPoint x="-315" y="190" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
