@@ -720,13 +720,12 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Quản lý an ninh an toàn&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="189.995944055944" y="829" width="149.94405594405595" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="mcEhs2cH6ITfsrPVjx6T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WbM4m7F3agRifBHvS6SE-61">
+        <mxCell id="mcEhs2cH6ITfsrPVjx6T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-310" y="470" as="targetPoint" />
+            <mxPoint x="-340" y="505" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-340" y="420" />
-              <mxPoint x="-340" y="500" />
-              <mxPoint x="-345" y="500" />
+              <mxPoint x="-340" y="505" />
             </Array>
             <mxPoint x="-310" y="420" as="sourcePoint" />
           </mxGeometry>
