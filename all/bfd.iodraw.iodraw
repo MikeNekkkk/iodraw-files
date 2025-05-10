@@ -525,9 +525,6 @@
         <mxCell id="WbM4m7F3agRifBHvS6SE-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Ban giám đốc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="965" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WbM4m7F3agRifBHvS6SE-19" value="Dữ liệu tổng chí phí căn hộ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;theo tháng&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="715" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90" y="550" as="targetPoint" />
@@ -726,7 +723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oaECKR3_80iCFyj4jGmA" name="1.0">
-    <mxGraphModel dx="924" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="142" dy="74" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
