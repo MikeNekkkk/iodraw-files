@@ -1347,6 +1347,9 @@
             <mxPoint x="470" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q5-PS5Ih6L-BtByBZtKx-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
