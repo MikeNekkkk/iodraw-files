@@ -760,9 +760,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DU0qj5d8r-_3xVToiIv0-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry y="600" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
