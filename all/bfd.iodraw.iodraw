@@ -504,7 +504,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-15" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Hoá đơn&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="340" width="110" height="30" as="geometry" />
+          <mxGeometry x="105.4" y="350" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbM4m7F3agRifBHvS6SE-16" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Bản thống kê&amp;nbsp; thu&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;chi theo quý&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="430" width="140" height="30" as="geometry" />
