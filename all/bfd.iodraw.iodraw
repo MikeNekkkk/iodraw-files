@@ -1481,24 +1481,6 @@
         <mxCell id="12Dw9D-qII78f904nx_P-1" value="bản thống kê sự cố theo tháng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="360" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-1" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="120.00000000000006" y="260" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-2" value="D5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" parent="Wq5NRf9mVMxm3Nwjw9hP-1" vertex="1">
-          <mxGeometry width="116.66666666666667" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-3" value="Hồ sơ Hợp Đồng" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Wq5NRf9mVMxm3Nwjw9hP-1" vertex="1">
-          <mxGeometry x="35" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Wq5NRf9mVMxm3Nwjw9hP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wq5NRf9mVMxm3Nwjw9hP-3" target="m19FNcJiDO8SEnPvIqwi-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="275" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="280" />
-              <mxPoint x="290" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
