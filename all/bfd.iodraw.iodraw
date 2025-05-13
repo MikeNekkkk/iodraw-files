@@ -1485,7 +1485,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R-E_eKiAKG2UJxZqwg2O" name="er">
-    <mxGraphModel dx="832" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1189" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1601,10 +1601,10 @@
           <mxGeometry y="42" width="115" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="4MPlo4G0lJy2Ep5stchV-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thông báo&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=17;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="472.13" width="125" height="77.87" as="geometry" />
+          <mxGeometry x="1010" y="472.13" width="125" height="87.87" as="geometry" />
         </mxCell>
-        <mxCell id="4MPlo4G0lJy2Ep5stchV-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Thời gian xảy ra sự cố&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Trạng thái&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Ghi chú&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="4MPlo4G0lJy2Ep5stchV-1" vertex="1">
-          <mxGeometry y="42" width="125" height="35.870000000000005" as="geometry" />
+        <mxCell id="4MPlo4G0lJy2Ep5stchV-2" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian xảy ra sự cố&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Trạng thái&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Ghi chú&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="4MPlo4G0lJy2Ep5stchV-1" vertex="1">
+          <mxGeometry y="42" width="125" height="45.870000000000005" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
