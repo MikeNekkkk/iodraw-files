@@ -1621,34 +1621,34 @@
           <mxGeometry y="26" width="160" height="124" as="geometry" />
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-1" value="BÁN THÔNG BÁO SỰ CỐ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="980" y="730" width="180" height="120" as="geometry" />
+          <mxGeometry x="830" y="877.87" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-2" value="&lt;u style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mã SC&lt;/font&gt;&lt;/u&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Tên sự cố&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Loại sự cố&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mô tả chi tiết&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="-8nAlyxDBAgizGcqprr1-1">
           <mxGeometry y="26" width="180" height="94" as="geometry" />
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1020" y="503" as="targetPoint" />
-            <mxPoint x="810" y="503" as="sourcePoint" />
+            <mxPoint x="870" y="650.87" as="targetPoint" />
+            <mxPoint x="660" y="650.87" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-4" value="1 - n&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="650" y="622.87" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-8nAlyxDBAgizGcqprr1-8" target="-8nAlyxDBAgizGcqprr1-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1066.6000000000004" y="519.8" as="sourcePoint" />
+            <mxPoint x="916.6000000000004" y="667.67" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1070" y="540" />
-              <mxPoint x="1070" y="540" />
+              <mxPoint x="920" y="687.87" />
+              <mxPoint x="920" y="687.87" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-6" value="0 - n&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="910" y="847.87" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-7" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thông báo&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=17;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="472.13" width="125" height="87.87" as="geometry" />
+          <mxGeometry x="860" y="620" width="125" height="87.87" as="geometry" />
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-8" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian xảy ra sự cố&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Trạng thái&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Ghi chú&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="-8nAlyxDBAgizGcqprr1-7">
           <mxGeometry y="42" width="125" height="45.870000000000005" as="geometry" />
