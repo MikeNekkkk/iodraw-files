@@ -1614,10 +1614,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4czLJIVwBLWsh2BTbRBW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.299;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" target="4czLJIVwBLWsh2BTbRBW-29">
+        <mxCell id="4czLJIVwBLWsh2BTbRBW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.299;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="633.2260000000001" as="sourcePoint" />
-            <mxPoint x="330" y="670" as="targetPoint" />
+            <mxPoint x="387.5" y="639.1249999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="500" y="639" />
             </Array>
@@ -1635,27 +1635,24 @@
         <mxCell id="4czLJIVwBLWsh2BTbRBW-24" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Mã HĐong&lt;/u&gt;&lt;div&gt;Ngày kí&lt;/div&gt;&lt;div&gt;Ngày bàn giao&lt;/div&gt;&lt;div&gt;Quy định&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="4czLJIVwBLWsh2BTbRBW-23">
           <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="4czLJIVwBLWsh2BTbRBW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="4czLJIVwBLWsh2BTbRBW-29">
+        <mxCell id="4czLJIVwBLWsh2BTbRBW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="640" as="sourcePoint" />
-            <mxPoint x="330" y="630" as="targetPoint" />
+            <mxPoint x="272.5" y="639.1249999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="171" y="640" />
               <mxPoint x="221" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4czLJIVwBLWsh2BTbRBW-29" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Kí&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=17;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="608.25" width="115" height="61.75" as="geometry" />
-        </mxCell>
-        <mxCell id="4czLJIVwBLWsh2BTbRBW-30" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="4czLJIVwBLWsh2BTbRBW-29">
-          <mxGeometry y="42" width="115" height="19.75" as="geometry" />
-        </mxCell>
         <mxCell id="o3S2AHdW218n-TmS0MCS-1" value="CĂN HỘ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="650" y="415" width="160" height="150" as="geometry" />
+          <mxGeometry x="500" y="560" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="o3S2AHdW218n-TmS0MCS-2" value="&lt;u style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mã CH&lt;/font&gt;&lt;/u&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;font-size: 14px; margin: 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;code style=&quot;&quot;&gt;Tên Căn Hộ&lt;/code&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Diện Tính&lt;br style=&quot;&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;Trạng Thái CH&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Tài sản cố định&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13pt; font-size: 13pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Giá thuê&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="o3S2AHdW218n-TmS0MCS-1">
           <mxGeometry y="26" width="160" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg3hh1n7nmJyrfpdJdTa-1" value="thuộc" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="483.5" y="483" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
