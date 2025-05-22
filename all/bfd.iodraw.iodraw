@@ -1639,13 +1639,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="916.6000000000004" y="667.67" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="923" y="660" />
-              <mxPoint x="1091" y="660" />
+              <mxPoint x="862" y="648" />
+              <mxPoint x="1090" y="648" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-6" value="0 - n&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="1040" y="622.87" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-8nAlyxDBAgizGcqprr1-7" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thông báo&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=17;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="610" width="125" height="87.87" as="geometry" />
