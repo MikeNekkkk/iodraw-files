@@ -102,14 +102,14 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-14" value="Chuyển đơn vị từ mét sang km" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="132.5" y="620" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="219.63" y="570" as="sourcePoint" />
-            <mxPoint x="220.34" y="630" as="targetPoint" />
+            <mxPoint x="220" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="219.34" y="615" />
-              <mxPoint x="220.34" y="615" />
+              <mxPoint x="220" y="600" />
+              <mxPoint x="220" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
