@@ -581,7 +581,7 @@
             <mxPoint x="-60" y="2465" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-170" y="2348" />
-              <mxPoint x="-170" y="2520" />
+              <mxPoint x="-170" y="2440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -778,7 +778,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-204" value="Xây dựng route từ goal về start" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="108.75" y="2116" width="152.5" height="52" as="geometry" />
+          <mxGeometry x="102.5" y="2168" width="152.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-205" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w9SwIw-vj3tiFYrkZCVE-0" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -807,7 +807,7 @@
             <mxPoint x="392.19" y="2500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="2338" />
-              <mxPoint x="180" y="2520" />
+              <mxPoint x="180" y="2440" />
             </Array>
           </mxGeometry>
         </mxCell>
