@@ -562,8 +562,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-98" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-98" value="Truy vết đường đi Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-447.48" y="2100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-99" value="Tính khoảng cách mới" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-172.69" y="2100" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
