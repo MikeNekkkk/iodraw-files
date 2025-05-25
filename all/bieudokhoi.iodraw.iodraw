@@ -532,13 +532,13 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-90" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-447.48" y="2010" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-91" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-88">
+        <mxCell id="Yz2thne22V_I2BYjtytD-91" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-88" target="Yz2thne22V_I2BYjtytD-89">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="-26" y="1905" as="sourcePoint" />
             <mxPoint x="-120" y="2010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-120" y="1922" />
+              <mxPoint x="-100" y="1922" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -553,7 +553,7 @@
             <mxPoint x="-413" y="1922" as="sourcePoint" />
             <mxPoint x="-371" y="2010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-380" y="1922" />
+              <mxPoint x="-377" y="1922" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -571,11 +571,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-100" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-370" y="2080" as="sourcePoint" />
-            <mxPoint x="-369.63" y="2090.04" as="targetPoint" />
+            <mxPoint x="-377.73" y="2079.96" as="sourcePoint" />
+            <mxPoint x="-377.36" y="2090" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-370" y="2050" />
-              <mxPoint x="-370" y="2050" />
+              <mxPoint x="-377.73" y="2049.96" />
+              <mxPoint x="-377.73" y="2049.96" />
             </Array>
           </mxGeometry>
         </mxCell>
