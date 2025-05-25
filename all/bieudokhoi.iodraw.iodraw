@@ -643,21 +643,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-149" value="current == goal?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=17;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="510.4700000000001" y="2090" width="119.51" height="90" as="geometry" />
+          <mxGeometry x="322.9700000000001" y="1888" width="119.51" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-153" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="322.5" y="2180" width="140" height="40" as="geometry" />
+          <mxGeometry x="135" y="1978" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-155" value="Duyệt neighbor của current" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="672.28" y="2180" width="154.96" height="40" as="geometry" />
+          <mxGeometry x="484.78" y="1978" width="154.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-157" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-149" target="Yz2thne22V_I2BYjtytD-153" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="452.97000000000025" y="2137.5" as="sourcePoint" />
-            <mxPoint x="424.96000000000004" y="2232.5" as="targetPoint" />
+            <mxPoint x="265.47000000000025" y="1935.5" as="sourcePoint" />
+            <mxPoint x="237.46000000000004" y="2030.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="393" y="2138" />
+              <mxPoint x="205.5" y="1936" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -669,10 +669,10 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-159" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-149" target="Yz2thne22V_I2BYjtytD-155" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="699.98" y="2140.5" as="sourcePoint" />
-            <mxPoint x="742.46" y="2235.5" as="targetPoint" />
+            <mxPoint x="512.48" y="1938.5" as="sourcePoint" />
+            <mxPoint x="554.96" y="2033.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="750" y="2141" />
+              <mxPoint x="562.5" y="1939" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -684,10 +684,10 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-162" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="393.49" y="2220" as="sourcePoint" />
-            <mxPoint x="391.5190909090909" y="2255.5" as="targetPoint" />
+            <mxPoint x="205.99" y="2018" as="sourcePoint" />
+            <mxPoint x="204.0190909090909" y="2053.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="391.51" y="2220" />
+              <mxPoint x="204.01" y="2018" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -703,37 +703,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-170" value="Truy vết đường đi A*" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="322.5" y="2258" width="140" height="40" as="geometry" />
+          <mxGeometry x="135" y="2056" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-171" value="neighbor in visited?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=17;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="685" y="2270" width="129.51" height="90" as="geometry" />
+          <mxGeometry x="497.5" y="2068" width="129.51" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-172" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="750.75" y="2220.01" as="sourcePoint" />
-            <mxPoint x="748.77" y="2270.01" as="targetPoint" />
+            <mxPoint x="563.25" y="2018.0100000000002" as="sourcePoint" />
+            <mxPoint x="561.27" y="2068.01" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="748.77" y="2220.01" />
+              <mxPoint x="561.27" y="2018.0100000000002" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-173" value="Bỏ qua neighbor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="814.51" y="2370" width="124.51" height="50" as="geometry" />
+          <mxGeometry x="627.01" y="2168" width="124.51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-174" value="Tính g_new, h_new, f_new" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="563" y="2370" width="140" height="50" as="geometry" />
+          <mxGeometry x="375.5" y="2168" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-176" value="Điều kiện cập nhật?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=17;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="568.24" y="2458" width="129.51" height="90" as="geometry" />
+          <mxGeometry x="380.74" y="2256" width="129.51" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-177" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-171" target="Yz2thne22V_I2BYjtytD-173" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="797.01" y="2318.01" as="sourcePoint" />
-            <mxPoint x="925.01" y="2413.01" as="targetPoint" />
+            <mxPoint x="609.51" y="2116.01" as="sourcePoint" />
+            <mxPoint x="737.51" y="2211.01" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="863" y="2318" />
+              <mxPoint x="675.5" y="2116" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -745,10 +745,10 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-179" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-171" target="Yz2thne22V_I2BYjtytD-174" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="732.2741935483868" y="2307.996661884373" as="sourcePoint" />
-            <mxPoint x="654.78" y="2423.51" as="targetPoint" />
+            <mxPoint x="544.7741935483868" y="2105.996661884373" as="sourcePoint" />
+            <mxPoint x="467.28" y="2221.51" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="633" y="2319" />
+              <mxPoint x="445.5" y="2117" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -760,35 +760,35 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-184" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-155" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="942" y="2400" as="sourcePoint" />
-            <mxPoint x="915.49" y="2395.5" as="targetPoint" />
+            <mxPoint x="754.5" y="2198" as="sourcePoint" />
+            <mxPoint x="727.99" y="2193.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="2400" />
-              <mxPoint x="960" y="2200" />
+              <mxPoint x="772.5" y="2198" />
+              <mxPoint x="772.5" y="1998" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-186" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-174" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="632.74" y="2344.0099999999998" as="sourcePoint" />
-            <mxPoint x="632.8" y="2458" as="targetPoint" />
+            <mxPoint x="445.24" y="2142.0099999999998" as="sourcePoint" />
+            <mxPoint x="445.29999999999995" y="2256" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-188" value="Bỏ qua neighbor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="703" y="2568" width="124.51" height="52" as="geometry" />
+          <mxGeometry x="515.5" y="2366" width="124.51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-189" value="Cập nhật path và heuristic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="462.5" y="2568" width="140" height="52" as="geometry" />
+          <mxGeometry x="275" y="2366" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-190" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-188" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="696.52" y="2502.5" as="sourcePoint" />
-            <mxPoint x="824.52" y="2597.5" as="targetPoint" />
+            <mxPoint x="509.02" y="2300.5" as="sourcePoint" />
+            <mxPoint x="637.02" y="2395.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="762.01" y="2502.5" />
+              <mxPoint x="574.51" y="2300.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -800,10 +800,10 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-192" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-189" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="567.01" y="2503.5" as="sourcePoint" />
-            <mxPoint x="554.29" y="2608" as="targetPoint" />
+            <mxPoint x="379.51" y="2301.5" as="sourcePoint" />
+            <mxPoint x="366.78999999999996" y="2406" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="532.01" y="2503.5" />
+              <mxPoint x="344.51" y="2301.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -837,26 +837,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-204" value="Xây dựng route từ goal về start" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="316.25" y="2338" width="152.5" height="52" as="geometry" />
+          <mxGeometry x="128.75" y="2136" width="152.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-205" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-206" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="392.94000000000005" y="2390" as="sourcePoint" />
-            <mxPoint x="392.62000000000006" y="2430.05" as="targetPoint" />
+            <mxPoint x="205.44000000000005" y="2188" as="sourcePoint" />
+            <mxPoint x="205.12000000000006" y="2228.05" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-206" value="Đảo ngược route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="322.50000000000006" y="2430" width="140" height="40" as="geometry" />
+          <mxGeometry x="135.00000000000006" y="2228" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-207" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="393.5" y="2297.25" as="sourcePoint" />
-            <mxPoint x="391.5290909090909" y="2332.75" as="targetPoint" />
+            <mxPoint x="206" y="2095.25" as="sourcePoint" />
+            <mxPoint x="204.02909090909088" y="2130.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="391.52" y="2297.25" />
+              <mxPoint x="204.01999999999998" y="2095.25" />
             </Array>
           </mxGeometry>
         </mxCell>
