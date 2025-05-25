@@ -685,8 +685,8 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-130" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;kết thúc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-52.5" y="2820" width="181.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-131" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Số vòng lặp&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-130" y="2670" width="123.75" height="50" as="geometry" />
+        <mxCell id="Yz2thne22V_I2BYjtytD-131" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;báo lỗi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="2660" width="123.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
