@@ -146,7 +146,7 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-21" value="&lt;div&gt;Đọc file KCchimbay1.csv&lt;/div&gt;&lt;div&gt;(Giá trị heuristic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="880" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-22" value="&lt;div&gt;Tạo đồ thị vô hướng&lt;/div&gt;&lt;div&gt;( Tọa độ các điểm)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-22" value="&lt;div&gt;Tạo đồ thị vô hướng&lt;/div&gt;&lt;div&gt;( từ danh sách cạnh)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-105" y="880" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-21">
