@@ -890,7 +890,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-219" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-131" target="Yz2thne22V_I2BYjtytD-130" edge="1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-219" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-131" target="Yz2thne22V_I2BYjtytD-130" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="940" y="3080" as="sourcePoint" />
@@ -898,7 +898,6 @@
             <Array as="points">
               <mxPoint x="922" y="3000" />
               <mxPoint x="38" y="3000" />
-              <mxPoint x="38" y="2960" />
             </Array>
           </mxGeometry>
         </mxCell>
