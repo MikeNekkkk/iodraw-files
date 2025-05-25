@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1932" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -209,7 +209,7 @@
           <mxGeometry x="-52.230000000000004" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-30" value="Thuật toán A*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270.21000000000004" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="328.63000000000005" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-31" value="Thuật toán Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-372.69" y="1340" width="120" height="60" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry x="-382.69" y="1440" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-35" value="Khởi tạo A*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260.21000000000004" y="1440" width="140" height="40" as="geometry" />
+          <mxGeometry x="318.63000000000005" y="1440" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-37" value="Đặt khoảng cách ban đầu = ∞&lt;div&gt;Điểm xuất phát = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-397.69000000000005" y="1520" width="170" height="60" as="geometry" />
@@ -320,49 +320,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-60" value="hiết lập queue và visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="249.08" y="1520.04" width="170" height="49.96" as="geometry" />
+          <mxGeometry x="307.5" y="1520.04" width="170" height="49.96" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-66" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="329.80999999999995" y="1509.9999999999998" as="sourcePoint" />
-            <mxPoint x="330.17999999999995" y="1520.04" as="targetPoint" />
+            <mxPoint x="388.22999999999996" y="1509.9999999999998" as="sourcePoint" />
+            <mxPoint x="388.59999999999997" y="1520.04" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="329.80999999999995" y="1480" />
-              <mxPoint x="329.80999999999995" y="1480" />
+              <mxPoint x="388.22999999999996" y="1480" />
+              <mxPoint x="388.22999999999996" y="1480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-67" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="329.7799999999999" y="1609.9599999999998" as="sourcePoint" />
-            <mxPoint x="330.1499999999999" y="1620" as="targetPoint" />
+            <mxPoint x="388.19999999999993" y="1609.9599999999998" as="sourcePoint" />
+            <mxPoint x="388.56999999999994" y="1620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="1570" />
-              <mxPoint x="330" y="1570" />
+              <mxPoint x="388.42" y="1570" />
+              <mxPoint x="388.42" y="1570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-68" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="329.78" y="1689.9199999999998" as="sourcePoint" />
-            <mxPoint x="330.15" y="1699.96" as="targetPoint" />
+            <mxPoint x="388.2" y="1689.9199999999998" as="sourcePoint" />
+            <mxPoint x="388.57" y="1699.96" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="329.78" y="1659.92" />
-              <mxPoint x="329.78" y="1659.92" />
+              <mxPoint x="388.2" y="1659.92" />
+              <mxPoint x="388.2" y="1659.92" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-76" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="329.80999999999995" y="1429.9799999999998" as="sourcePoint" />
-            <mxPoint x="330.17999999999995" y="1440.02" as="targetPoint" />
+            <mxPoint x="388.22999999999996" y="1429.9799999999998" as="sourcePoint" />
+            <mxPoint x="388.59999999999997" y="1440.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="329.80999999999995" y="1399.98" />
-              <mxPoint x="329.80999999999995" y="1399.98" />
+              <mxPoint x="388.22999999999996" y="1399.98" />
+              <mxPoint x="388.22999999999996" y="1399.98" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -624,10 +624,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-134" value="Bắt đầu đo thời gian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270.21" y="1620" width="120" height="40" as="geometry" />
+          <mxGeometry x="328.63" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-135" value="Vòng lặp chính while queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250.99999999999997" y="1699.96" width="162.23" height="40" as="geometry" />
+          <mxGeometry x="309.41999999999996" y="1699.96" width="162.23" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-136" value="Lấy node có khoảng cách nhỏ nhất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="308.42" y="1780" width="162.23" height="40" as="geometry" />
