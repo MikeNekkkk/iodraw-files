@@ -521,7 +521,18 @@
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-86" value="Lấy node có khoảng cách nhỏ nhất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-264.96" y="1780" width="162.23" height="40" as="geometry" />
+          <mxGeometry x="-263.34999999999997" y="1780" width="162.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-87" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-182.67000000000002" y="1849.9899999999998" as="sourcePoint" />
+            <mxPoint x="-182.3" y="1860.03" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-182.67000000000002" y="1819.99" />
+              <mxPoint x="-182.67000000000002" y="1819.99" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
