@@ -773,13 +773,15 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-176" value="Điều kiện cập nhật?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="2610" width="129.51" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-177" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-177" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-173">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="632" y="2151" as="sourcePoint" />
-            <mxPoint x="760" y="2246" as="targetPoint" />
+            <mxPoint x="814.51" y="2370" as="sourcePoint" />
+            <mxPoint x="942.51" y="2465" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="2151" />
+              <mxPoint x="830" y="2370" />
+              <mxPoint x="830" y="2465" />
+              <mxPoint x="885" y="2465" />
             </Array>
           </mxGeometry>
         </mxCell>
