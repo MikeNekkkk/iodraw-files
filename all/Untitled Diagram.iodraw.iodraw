@@ -43,14 +43,14 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-3" value="&lt;div&gt;Đọc file checkBĐ2.csv&lt;/div&gt;&lt;div&gt;( Tọa độ các điểm)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="270" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-2">
+        <mxCell id="Yz2thne22V_I2BYjtytD-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-2">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="220" y="240" as="sourcePoint" />
             <mxPoint x="230" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="230" />
-              <mxPoint x="460" y="230" />
+              <mxPoint x="470" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
