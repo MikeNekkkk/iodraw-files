@@ -229,8 +229,8 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-35" value="Khởi tạo A*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="1500" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-37" value="Đặt khoảng cách ban đầu = ∞&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="1590" width="120" height="60" as="geometry" />
+        <mxCell id="Yz2thne22V_I2BYjtytD-37" value="Đặt khoảng cách ban đầu = ∞&lt;div&gt;Điểm xuất phát = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="1590" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
