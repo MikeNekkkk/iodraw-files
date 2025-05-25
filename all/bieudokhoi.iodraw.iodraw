@@ -542,11 +542,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;rồi&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-91">
-          <mxGeometry x="0.1993" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
