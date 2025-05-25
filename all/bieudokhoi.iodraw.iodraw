@@ -394,7 +394,7 @@
           <mxGeometry x="-387.48" y="1864" width="145.04" height="116" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-89" value="Duyệt tất cả neighbor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-559.27" y="2008" width="140" height="40" as="geometry" />
+          <mxGeometry x="-559.27" y="2008" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-90" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-242.44" y="2008" width="140" height="40" as="geometry" />
@@ -430,7 +430,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-98" value="Truy vết đường đi Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-242.44" y="2088" width="140" height="40" as="geometry" />
+          <mxGeometry x="-242.44" y="2088" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-99" value="Tính khoảng cách mới" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-559.27" y="2088" width="140" height="52" as="geometry" />
@@ -463,11 +463,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-103" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-489.52" y="2158.01" as="sourcePoint" />
-            <mxPoint x="-489.15" y="2168.05" as="targetPoint" />
+            <mxPoint x="-489.56" y="2169.98" as="sourcePoint" />
+            <mxPoint x="-489.19" y="2180.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-489.52" y="2128.01" />
-              <mxPoint x="-489.52" y="2128.01" />
+              <mxPoint x="-489.56" y="2139.98" />
+              <mxPoint x="-489.56" y="2139.98" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -483,7 +483,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-105" value="Xây dựng route&amp;nbsp;&lt;div style=&quot;font-size: 17px;&quot;&gt;từ end về start&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-242.44" y="2168" width="140" height="40" as="geometry" />
+          <mxGeometry x="-242.44" y="2168" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-106" value="Cập nhật khoảng cách" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-652" y="2308" width="140" height="40" as="geometry" />
