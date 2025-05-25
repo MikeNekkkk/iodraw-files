@@ -520,8 +520,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Xử lý dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-86" value="Vòng lặp chính while queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-264.96" y="1770" width="162.23" height="40" as="geometry" />
+        <mxCell id="Yz2thne22V_I2BYjtytD-86" value="Lấy node có khoảng cách nhỏ nhất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-264.96" y="1780" width="162.23" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
