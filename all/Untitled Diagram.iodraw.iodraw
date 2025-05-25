@@ -242,7 +242,10 @@
           <mxGeometry x="-199.55" y="1840" width="94.55" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-41" value="Cập nhật khoảng cách&lt;br&gt;(các điểm kề)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-230" y="1960" width="170" height="60" as="geometry" />
+          <mxGeometry x="-215" y="1960" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-42" value="Cập nhật khoảng cách&lt;br&gt;(các điểm kề)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-205" y="1970" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
