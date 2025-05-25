@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-60" value="hiết lập queue và visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="249.08" y="1520.04" width="170" height="60" as="geometry" />
+          <mxGeometry x="249.08" y="1520.04" width="170" height="49.96" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-61" value="Sử dụng priority queue&amp;nbsp;&lt;br&gt;(sắp xếp theo f_n)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="262.48" y="1620" width="137.73" height="60" as="geometry" />
