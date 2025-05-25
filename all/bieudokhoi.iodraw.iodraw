@@ -922,16 +922,16 @@
           <mxGeometry x="110.05000000000001" y="2308" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w9SwIw-vj3tiFYrkZCVE-1" value="Duyệt tất cả neighbor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-549.27" y="2018" width="140" height="42" as="geometry" />
+          <mxGeometry x="460.5" y="1999.95" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="w9SwIw-vj3tiFYrkZCVE-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-477.03999999999996" y="2088.01" as="sourcePoint" />
-            <mxPoint x="-476.66999999999996" y="2098.05" as="targetPoint" />
+            <mxPoint x="532.73" y="2069.96" as="sourcePoint" />
+            <mxPoint x="533.1" y="2080" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-477.03999999999996" y="2058.01" />
-              <mxPoint x="-477.03999999999996" y="2058.01" />
+              <mxPoint x="532.73" y="2039.9600000000003" />
+              <mxPoint x="532.73" y="2039.9600000000003" />
             </Array>
           </mxGeometry>
         </mxCell>
