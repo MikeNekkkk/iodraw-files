@@ -765,6 +765,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-173" value="Thêm vào visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="2470" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
