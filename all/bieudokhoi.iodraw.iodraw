@@ -696,7 +696,7 @@
           <mxGeometry x="380" y="2230" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-155" value="Duyệt neighbor của current" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="2230" width="154.96" height="40" as="geometry" />
+          <mxGeometry x="602.28" y="2230" width="154.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-157" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-149" target="Yz2thne22V_I2BYjtytD-153">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -751,6 +751,19 @@
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-170" value="Thêm vào visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="2320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-171" value="current == goal?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="2308" width="119.51" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-172" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="680.74" y="2270" as="sourcePoint" />
+            <mxPoint x="678.76" y="2320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="678.76" y="2270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
