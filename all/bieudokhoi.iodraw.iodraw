@@ -885,8 +885,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-204" value="Truy vết đường đi A*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="332.5" y="2268" width="140" height="40" as="geometry" />
+        <mxCell id="Yz2thne22V_I2BYjtytD-204" value="Xây dựng route từ goal về start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="316.25" y="2338" width="152.5" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
