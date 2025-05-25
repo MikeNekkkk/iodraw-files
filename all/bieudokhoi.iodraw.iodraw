@@ -629,7 +629,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-108" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-108" value="Bỏ qua neighbor này" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-87.49999999999999" y="2310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-109" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -653,7 +653,10 @@
             <mxPoint as="offset" />
             <mxPoint y="2210" as="sourcePoint" />
             <mxPoint y="2310" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="-30" y="2215" />
+              <mxPoint x="-30" y="2310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-114" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Không&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-111">
