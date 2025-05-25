@@ -923,12 +923,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w9SwIw-vj3tiFYrkZCVE-3" value="Cập nhật khoảng cách" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="2368" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="w9SwIw-vj3tiFYrkZCVE-4" value="Bỏ qua neighbor này" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="587.46" y="2368" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="w9SwIw-vj3tiFYrkZCVE-5" value="Tăng loop_count" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="521.11" y="2478" width="110" height="40" as="geometry" />
         </mxCell>
