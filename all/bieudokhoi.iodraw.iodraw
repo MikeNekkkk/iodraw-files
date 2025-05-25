@@ -656,7 +656,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-114" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-111">
+        <mxCell id="Yz2thne22V_I2BYjtytD-114" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Không&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-111">
           <mxGeometry x="0.0844" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
