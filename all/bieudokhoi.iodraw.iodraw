@@ -731,11 +731,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-162" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="482.46000000000004" y="2270" as="sourcePoint" />
-            <mxPoint x="518.6100000000001" y="2360.0000000000005" as="targetPoint" />
+            <mxPoint x="451.98" y="2270" as="sourcePoint" />
+            <mxPoint x="488.1300000000001" y="2360.0000000000005" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480.46000000000004" y="2270" />
-              <mxPoint x="480.46000000000004" y="2360" />
+              <mxPoint x="449.98" y="2270" />
+              <mxPoint x="449.98" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -760,6 +760,9 @@
               <mxPoint x="360.8299999999999" y="1739.96" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-170" value="Thêm vào visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="2370" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
