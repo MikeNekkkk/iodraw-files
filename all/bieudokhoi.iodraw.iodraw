@@ -353,11 +353,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-68" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="329.80999999999995" y="1709.9599999999998" as="sourcePoint" />
-            <mxPoint x="330.17999999999995" y="1720" as="targetPoint" />
+            <mxPoint x="329.78" y="1689.9199999999998" as="sourcePoint" />
+            <mxPoint x="330.15" y="1699.96" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="329.80999999999995" y="1679.96" />
-              <mxPoint x="329.80999999999995" y="1679.96" />
+              <mxPoint x="329.78" y="1659.92" />
+              <mxPoint x="329.78" y="1659.92" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -703,7 +703,7 @@
           <mxGeometry x="270.21" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-135" value="Vòng lặp chính while queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-386.08" y="1709.96" width="162.23" height="40" as="geometry" />
+          <mxGeometry x="260.21" y="1720" width="162.23" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
