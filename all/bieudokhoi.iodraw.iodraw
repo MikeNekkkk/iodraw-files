@@ -26,7 +26,7 @@
           <mxGeometry x="136.81" y="1090" width="171.93" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-1" value="Đọc file khoang_cachhhh.csv&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;(Thông tin các cạnh và khoảng cách)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="117.5" y="270" width="205" height="70" as="geometry" />
+          <mxGeometry x="117.5" y="270" width="222.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-2" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Đọc file KCchimbay1.csv&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;(Giá trị heuristic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="270" width="150" height="70" as="geometry" />
