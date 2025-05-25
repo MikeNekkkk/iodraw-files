@@ -212,7 +212,7 @@
           <mxGeometry x="-60" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-30" value="Thuật toán A*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="143.86" y="1389.96" width="120" height="60" as="geometry" />
+          <mxGeometry x="143.86" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-31" value="Thuật toán Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-247.73" y="1400" width="120" height="60" as="geometry" />
@@ -398,11 +398,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-67" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="194.59999999999997" y="1659.9599999999998" as="sourcePoint" />
-            <mxPoint x="194.96999999999997" y="1670" as="targetPoint" />
+            <mxPoint x="207.32999999999996" y="1659.9999999999998" as="sourcePoint" />
+            <mxPoint x="207.69999999999996" y="1670.04" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="194.59999999999997" y="1629.96" />
-              <mxPoint x="194.59999999999997" y="1629.96" />
+              <mxPoint x="207.32999999999996" y="1630" />
+              <mxPoint x="207.32999999999996" y="1630" />
             </Array>
           </mxGeometry>
         </mxCell>
