@@ -370,7 +370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-60" value="Đặt khoảng cách ban đầu = ∞&lt;div&gt;Điểm xuất phát = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="125" y="1580" width="170" height="60" as="geometry" />
+          <mxGeometry x="107.73" y="1570" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-61" value="Sử dụng priority queue&amp;nbsp;heapq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="1680" width="120" height="60" as="geometry" />
@@ -387,11 +387,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-66" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="207.39" y="1569.9599999999998" as="sourcePoint" />
-            <mxPoint x="207.76" y="1580" as="targetPoint" />
+            <mxPoint x="194.6" y="1559.9999999999998" as="sourcePoint" />
+            <mxPoint x="194.97" y="1570.04" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="207.39" y="1539.96" />
-              <mxPoint x="207.39" y="1539.96" />
+              <mxPoint x="194.6" y="1530" />
+              <mxPoint x="194.6" y="1530" />
             </Array>
           </mxGeometry>
         </mxCell>
