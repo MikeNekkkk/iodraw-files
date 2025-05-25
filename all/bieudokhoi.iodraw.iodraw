@@ -630,7 +630,7 @@
           <mxGeometry x="281.91999999999996" y="1699.96" width="162.23" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-136" value="Lấy node có f_value nhỏ nhất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="281.92" y="1780" width="162.23" height="40" as="geometry" />
+          <mxGeometry x="274" y="1780" width="178.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-137" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
