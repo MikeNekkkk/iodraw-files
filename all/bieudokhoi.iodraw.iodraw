@@ -526,8 +526,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-88" value="current_node == end?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-307.48" y="1864" width="145.04" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-89" value="Khởi tạo Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-292.69" y="1450" width="140" height="40" as="geometry" />
+        <mxCell id="Yz2thne22V_I2BYjtytD-89" value="Duyệt tất cả neighbor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="2010" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-90" value="Duyệt tất cả neighbor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-200" y="2030" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
