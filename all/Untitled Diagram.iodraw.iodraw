@@ -239,7 +239,7 @@
           <mxGeometry x="-255" y="2010" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-42" value="truy vết đường đi&lt;br&gt;(từ đích về nguồn)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-95" y="2010" width="105" height="50" as="geometry" />
+          <mxGeometry x="-95" y="2010" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-43" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-0" target="Yz2thne22V_I2BYjtytD-29">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -471,7 +471,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-75" value="truy vết đường đi&lt;br&gt;(từ đích về nguồn)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="32.730000000000004" y="2010" width="105" height="50" as="geometry" />
+          <mxGeometry x="32.73" y="2010" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-76" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
