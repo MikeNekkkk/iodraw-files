@@ -547,6 +547,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-96" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.087;exitY=0.569;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-88">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-413" y="1922" as="sourcePoint" />
+            <mxPoint x="-371" y="2010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-295" y="1922" />
+              <mxPoint x="-371" y="1922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-97" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Không&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-96">
+          <mxGeometry x="0.1912" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
