@@ -765,11 +765,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-173" value="Thêm vào visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-173" value="Bỏ qua neighbor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="2470" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-174" value="Thêm vào visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="2470" width="140" height="40" as="geometry" />
+          <mxGeometry x="690" y="2470" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
