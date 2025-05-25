@@ -26,7 +26,7 @@
           <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-0" value="Kiểm tra tính hợp lệ&lt;div&gt;(của điểm đầu và cuối)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="129.04" y="1160" width="171.93" height="140" as="geometry" />
+          <mxGeometry x="129.04" y="1150" width="171.93" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-1" value="Đọc file khoang_cachhhh.csv&lt;br&gt;&lt;div&gt;(Thông tin các cạnh và khoảng cách)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="117.5" y="270" width="205" height="70" as="geometry" />
