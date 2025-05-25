@@ -212,7 +212,7 @@
           <mxGeometry x="-60" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-30" value="Thuật toán A*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-31" value="Thuật toán Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-247.73" y="1400" width="120" height="60" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry x="-257.73" y="1500" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-35" value="Khởi tạo A*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="1500" width="140" height="40" as="geometry" />
+          <mxGeometry x="125" y="1500" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-37" value="Đặt khoảng cách ban đầu = ∞&lt;div&gt;Điểm xuất phát = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-272.73" y="1580" width="170" height="60" as="geometry" />
@@ -370,13 +370,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-60" value="Đặt khoảng cách ban đầu = ∞&lt;div&gt;Điểm xuất phát = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="1580" width="170" height="60" as="geometry" />
+          <mxGeometry x="125" y="1580" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-61" value="Sử dụng priority queue&amp;nbsp;heapq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-62" value="Vòng lặp chính Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="122.72999999999999" y="1780" width="140" height="40" as="geometry" />
+          <mxGeometry x="137.73" y="1780" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-63" value="Đã đến đích?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="156.58999999999997" y="1865" width="94.55" height="80" as="geometry" />
@@ -387,33 +387,33 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-66" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="192.39" y="1569.9599999999998" as="sourcePoint" />
-            <mxPoint x="192.76" y="1580" as="targetPoint" />
+            <mxPoint x="207.39" y="1569.9599999999998" as="sourcePoint" />
+            <mxPoint x="207.76" y="1580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="192.39" y="1539.96" />
-              <mxPoint x="192.39" y="1539.96" />
+              <mxPoint x="207.39" y="1539.96" />
+              <mxPoint x="207.39" y="1539.96" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-67" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="192.36999999999998" y="1669.9999999999998" as="sourcePoint" />
-            <mxPoint x="192.73999999999998" y="1680.04" as="targetPoint" />
+            <mxPoint x="207.36999999999998" y="1669.9999999999998" as="sourcePoint" />
+            <mxPoint x="207.73999999999998" y="1680.04" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="192.36999999999998" y="1640" />
-              <mxPoint x="192.36999999999998" y="1640" />
+              <mxPoint x="207.36999999999998" y="1640" />
+              <mxPoint x="207.36999999999998" y="1640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-68" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="192.34999999999997" y="1770.0299999999997" as="sourcePoint" />
-            <mxPoint x="192.71999999999997" y="1780.07" as="targetPoint" />
+            <mxPoint x="207.34999999999997" y="1770.0299999999997" as="sourcePoint" />
+            <mxPoint x="207.71999999999997" y="1780.07" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="192.34999999999997" y="1740.03" />
-              <mxPoint x="192.34999999999997" y="1740.03" />
+              <mxPoint x="207.34999999999997" y="1740.03" />
+              <mxPoint x="207.34999999999997" y="1740.03" />
             </Array>
           </mxGeometry>
         </mxCell>
