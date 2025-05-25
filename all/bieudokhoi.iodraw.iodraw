@@ -824,7 +824,7 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-188" value="Bỏ qua neighbor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="729.51" y="2730" width="124.51" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-189" value="Tính g_new, h_new, f_new" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-189" value="Cập nhật path và heuristic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="2730" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-190" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Yz2thne22V_I2BYjtytD-188">
@@ -852,7 +852,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-193" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Không&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-192">
+        <mxCell id="Yz2thne22V_I2BYjtytD-193" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;có&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-192">
           <mxGeometry x="0.0844" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
