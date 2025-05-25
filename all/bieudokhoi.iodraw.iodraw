@@ -221,7 +221,7 @@
           <mxGeometry x="291.13000000000005" y="1440" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-37" value="Đặt khoảng cách ban đầu = ∞&lt;div style=&quot;font-size: 14px;&quot;&gt;Điểm xuất phát = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-397.69000000000005" y="1520" width="170" height="60" as="geometry" />
+          <mxGeometry x="-397.69" y="1520" width="187.69" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-38" value="Bắt đầu đo thời gian" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-372.69" y="1620" width="120" height="40" as="geometry" />
