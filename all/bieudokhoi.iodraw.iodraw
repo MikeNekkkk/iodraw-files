@@ -659,16 +659,15 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-138" value="current in visited ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290.52" y="1864" width="145.04" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-139" value="Duyệt tất cả neighbor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-139" value="Thêm vào visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="496.23" y="2010" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-141" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.976;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-138" target="Yz2thne22V_I2BYjtytD-139">
+        <mxCell id="Yz2thne22V_I2BYjtytD-141" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yz2thne22V_I2BYjtytD-138" target="Yz2thne22V_I2BYjtytD-139">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="670.5206896551731" y="1921.9999999999995" as="sourcePoint" />
             <mxPoint x="548.46" y="2010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="432" y="1917" />
               <mxPoint x="569" y="1917" />
             </Array>
           </mxGeometry>
