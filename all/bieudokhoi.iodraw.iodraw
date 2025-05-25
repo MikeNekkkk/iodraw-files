@@ -629,16 +629,16 @@
           <mxGeometry x="281.92" y="1699.96" width="162.23" height="50.04" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-136" value="Lấy node có f_value nhỏ nhất" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="275.96" y="1780" width="178.08" height="40" as="geometry" />
+          <mxGeometry x="275.96" y="1784" width="178.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-137" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="362.6" y="1849.9899999999998" as="sourcePoint" />
-            <mxPoint x="362.97" y="1860.03" as="targetPoint" />
+            <mxPoint x="362.84000000000003" y="1853.9599999999998" as="sourcePoint" />
+            <mxPoint x="363.21000000000004" y="1864" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="362.6" y="1819.99" />
-              <mxPoint x="362.6" y="1819.99" />
+              <mxPoint x="362.84000000000003" y="1823.96" />
+              <mxPoint x="362.84000000000003" y="1823.96" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -726,11 +726,11 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-167" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=17;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="362.69999999999993" y="1769.9799999999998" as="sourcePoint" />
-            <mxPoint x="363.06999999999994" y="1780.02" as="targetPoint" />
+            <mxPoint x="362.69999999999993" y="1772.9799999999998" as="sourcePoint" />
+            <mxPoint x="363.06999999999994" y="1783.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="363" y="1750" />
-              <mxPoint x="363" y="1750" />
+              <mxPoint x="363" y="1753" />
+              <mxPoint x="363" y="1753" />
             </Array>
           </mxGeometry>
         </mxCell>
