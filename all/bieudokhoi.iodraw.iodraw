@@ -810,14 +810,8 @@
             <mxPoint x="915.49" y="2395.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="940" y="2290" />
-              <mxPoint x="916" y="2290" />
-              <mxPoint x="916" y="2256" />
+              <mxPoint x="940" y="2256" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-185" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;có&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-184">
-          <mxGeometry x="0.0844" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
