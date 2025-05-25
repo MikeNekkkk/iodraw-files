@@ -241,6 +241,9 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-40" value="Đã đến đích?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-199.55" y="1840" width="94.55" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-41" value="Đặt khoảng cách ban đầu = ∞&lt;div&gt;Điểm xuất phát = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-225" y="1590" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
