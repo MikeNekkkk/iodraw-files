@@ -619,7 +619,7 @@
           <mxGeometry x="-447.48" y="2170" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-106" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-447.48" y="2260" width="140" height="40" as="geometry" />
+          <mxGeometry x="-280" y="2310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-107" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -631,6 +631,9 @@
               <mxPoint x="-377.73" y="2210.01" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Yz2thne22V_I2BYjtytD-108" value="Thoát vòng lặp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-72.22999999999999" y="2310" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
