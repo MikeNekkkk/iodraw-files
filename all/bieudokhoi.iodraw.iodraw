@@ -319,7 +319,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-60" value="&lt;div&gt;Tính g_n&lt;br&gt;&amp;nbsp;f_n = g_n + h_n&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Yz2thne22V_I2BYjtytD-60" value="hiết lập queue và visited" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="249.08" y="1520.04" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-61" value="Sử dụng priority queue&amp;nbsp;&lt;br&gt;(sắp xếp theo f_n)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -700,7 +700,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz2thne22V_I2BYjtytD-133" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;hợp lệ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-132">
+        <mxCell id="Yz2thne22V_I2BYjtytD-133" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;không hợp lệ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yz2thne22V_I2BYjtytD-132">
           <mxGeometry x="0.3962" y="2" relative="1" as="geometry">
             <mxPoint x="-10" y="6" as="offset" />
           </mxGeometry>
