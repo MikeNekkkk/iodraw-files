@@ -224,10 +224,10 @@
           <mxGeometry x="-264.96000000000004" y="1520" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-38" value="Bắt đầu đo thời gian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-239.95999999999998" y="1620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-239.96" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-39" value="Vòng lặp chính Dijkstra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-252.23" y="1720" width="140" height="40" as="geometry" />
+          <mxGeometry x="-252.23" y="1699.96" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-40" value="Đã đến đích?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-229.51" y="1805" width="94.55" height="80" as="geometry" />
@@ -309,22 +309,22 @@
         <mxCell id="Yz2thne22V_I2BYjtytD-50" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-182.61" y="1710.0299999999997" as="sourcePoint" />
-            <mxPoint x="-182.24" y="1720.07" as="targetPoint" />
+            <mxPoint x="-182.61" y="1689.9899999999998" as="sourcePoint" />
+            <mxPoint x="-182.24" y="1700.03" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-182.61" y="1680.03" />
-              <mxPoint x="-182.61" y="1680.03" />
+              <mxPoint x="-182.61" y="1659.99" />
+              <mxPoint x="-182.61" y="1659.99" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yz2thne22V_I2BYjtytD-51" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-182.61" y="1789.9899999999998" as="sourcePoint" />
-            <mxPoint x="-182.24" y="1800.03" as="targetPoint" />
+            <mxPoint x="-182.61" y="1769.9499999999998" as="sourcePoint" />
+            <mxPoint x="-182.24" y="1779.99" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-182.61" y="1759.99" />
-              <mxPoint x="-182.61" y="1759.99" />
+              <mxPoint x="-182.61" y="1739.95" />
+              <mxPoint x="-182.61" y="1739.95" />
             </Array>
           </mxGeometry>
         </mxCell>
